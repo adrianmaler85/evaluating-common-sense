@@ -1,0 +1,8 @@
+# Python cache directories in any directory:
+**/__pycache__
+
+# View preferences files in any directory:
+**/.DS_Store
+
+# Backup files in any directory:
+**/*~

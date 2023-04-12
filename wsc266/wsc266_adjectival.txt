@@ -1,0 +1,176 @@
+schema type: Winograd; dataset name: wsc266; perturbation: adjectival; baseline: no baseline
+by answer
+w/  1/ a/  1/   1/   1: The tall men refused the short men a permit because *target* feared violence.&the tall men&the short men&0
+w/  1/ b/  1/   2/   2: The tall men refused the short men a permit because *target* advocated violence.&the tall men&the short men&1
+w/  2/ a/  2/   3/   3: The red box doesn't fit into the blue box because *target* is too large.&the red box&the blue box&0
+w/  2/ b/  2/   4/   4: The red box doesn't fit into the blue box because *target* is too small.&the red box&the blue box&1
+w/  3/ a/  3/   5/   5: The tall woman made sure to thank the short woman for all the help *target* had received.&the tall woman&the short woman&0
+w/  3/ b/  3/   6/   6: The tall woman made sure to thank the short woman for all the help *target* had given.&the tall woman&the short woman&1
+w/  4/ a/  4/   7/   7: The old man tried to call the young man on the phone, but *target* wasn't successful.&the old man&the young man&0
+w/  4/ b/  4/   8/   8: The old man tried to call the young man on the phone, but *target* wasn't available.&the old man&the young man&1
+w/  5/ a/  5/   9/   9: The fat man asked the thin man a question, but *target* was reluctant to repeat it.&the fat man&the thin man&0
+w/  5/ b/  5/  10/  10: The fat man asked the thin man a question, but *target* was reluctant to answer it.&the fat man&the thin man&1
+w/  6/ a/  6/  11/  11: The yellow car zoomed by the green car because *target* was going so fast.&the yellow car&the green car&0
+w/  6/ b/  6/  12/  12: The yellow car zoomed by the green car because *target* was going so slow.&the yellow car&the green car&1
+w/  7/ a/  7/  13/  13: The tall man felt vindicated when his longtime rival the short man revealed that *target* was the winner of the competition.&the tall man&the short man&0
+w/  7/ b/  7/  14/  14: The tall man felt crushed when his longtime rival the short man revealed that *target* was the winner of the competition.&the tall man&the short man&1
+w/  8/ a/  8/  15/  15: The angry man couldn't lift the happy man because *target* was so weak.&the angry man&the happy man&0
+w/  8/ b/  8/  16/  16: The angry man couldn't lift the happy man because *target* was so heavy.&the angry man&the happy man&1
+w/  9/ a/  9/  17/  17: The red box crashed right through the blue box because *target* was made of steel.&the red box&the blue box&0
+w/  9/ b/  9/  18/  18: The red box crashed right through the blue box because *target* was made of styrofoam.&the red box&the blue box&1
+w/ 10/ a/ 10/  19/  19: The young man couldn't see the stage with the old man in front of him because *target* is so short.&the young man&the old man&0
+w/ 10/ b/ 10/  20/  20: The young man couldn't see the stage with the old man in front of him because *target* is so tall.&the young man&the old man&1
+w/ 11/ a/ 11/  21/  21: The thin boy threw his schoolbag down to the fat boy after *target* reached the top of the stairs.&the thin boy&the fat boy&0
+w/ 11/ b/ 11/  22/  22: The thin boy threw his schoolbag down to the fat boy after *target* reached the bottom of the stairs.&the thin boy&the fat boy&1
+w/ 12/ a/ 12/  23/  23: Although they ran at about the same speed, the lean woman beat the muscular woman because *target* had such a good start.&the lean woman&the muscular woman&0
+w/ 12/ b/ 12/  24/  24: Although they ran at about the same speed, the lean woman beat the muscular woman because *target* had such a bad start.&the lean woman&the muscular woman&1
+w/ 13/ a/ 14/  25/  27: The realist painting was hung just above the impressionist painting and *target* did look much better with another one below it.&the realist painting&the impressionist painting&0
+w/ 13/ b/ 14/  26/  28: The realist painting was hung just above the impressionist painting and *target* did look much better with another one above it.&the realist painting&the impressionist painting&1
+w/ 14/ a/ 15/  27/  29: The thin woman did a lot better than her good friend the tall woman on the test because *target* had studied so hard.&the thin woman&the tall woman&0
+w/ 14/ b/ 15/  28/  30: The thin woman did a lot worse than her good friend the tall woman on the test because *target* had studied so hard.&the thin woman&the tall woman&1
+w/ 15/ a/ 16/  29/  31: The experienced police arrived after the inexperienced police because *target* were coming from so far away.&the experienced police&the inexperienced police&0
+w/ 15/ b/ 16/  30/  32: The experienced police arrived before the inexperienced police because *target* were coming from so far away.&the experienced police&the inexperienced police&1
+w/ 16/ a/ 17/  31/  33: The young man was upset with the old man because the toaster *target* had bought from him didn't work.&the young man&the old man&0
+w/ 16/ b/ 17/  32/  34: The young man was upset with the old man because the toaster *target* had sold him didn't work.&the young man&the old man&1
+w/ 17/ a/ 18/  33/  35: The tall man yelled at the short man because *target* was so upset.&the tall man&the short man&0
+w/ 17/ b/ 18/  34/  36: The tall man comforted the short man because *target* was so upset.&the tall man&the short man&1
+w/ 18/ a/ 19/  35/  37: The bag of beans had been placed above the bag of flour, so *target* had to be moved first.&the bag of beans&the bag of flour&0
+w/ 18/ b/ 19/  36/  38: The bag of beans had been placed below the bag of flour, so *target* had to be moved first.&the bag of beans&the bag of flour&1
+w/ 19/ a/ 20/  37/  39: The careful man envies the careless man although *target* is very successful.&the careful man&the careless man&0
+w/ 19/ b/ 20/  38/  40: The careful man envies the careless man because *target* is very successful.&the careful man&the careless man&1
+w/ 20/ a/ 21/  39/  41: The older students were bullying the younger students, so we punished *target*.&the older students&the younger students&0
+w/ 20/ b/ 21/  40/  42: The older students were bullying the younger students, so we rescued *target*.&the older students&the younger students&1
+w/ 21/ a/ 22/  41/  43: I poured water from the glass cup into the ceramic cup until *target* was empty.&the glass cup&the ceramic cup&0
+w/ 21/ b/ 22/  42/  44: I poured water from the glass cup into the ceramic cup until *target* was full.&the glass cup&the ceramic cup&1
+w/ 22/ a/ 23/  43/  45: The young woman knows all about the short woman's personal problems because *target* is nosy.&the young woman&the short woman&0
+w/ 22/ b/ 23/  44/  46: The young woman knows all about the short woman's personal problems because *target* is indiscreet.&the young woman&the short woman&1
+w/ 23/ a/ 24/  45/  47: The strong man explained his theory to the fast man but *target* couldn't convince him.&the strong man&the fast man&0
+w/ 23/ b/ 24/  46/  48: The strong man explained his theory to the fast man but *target* couldn't understand him.&the strong man&the fast man&1
+w/ 24/ a/ 25/  47/  49: The blonde woman knew that the brunette woman's son had been in a car accident, so *target* told her about it.&the blonde woman&the brunette woman&0
+w/ 24/ b/ 25/  48/  50: The blonde woman knew that the brunette woman's son had been in a car accident, because *target* told her about it.&the blonde woman&the brunette woman&1
+w/ 25/ a/ 26/  49/  51: The experienced sportsman can still beat the inexperienced sportsman at tennis, even though *target* is 30 years older.&the experienced sportsman&the inexperienced sportsman&0
+w/ 25/ b/ 26/  50/  52: The experienced sportsman can still beat the inexperienced sportsman at tennis, even though *target* is 30 years younger.&the experienced sportsman&the inexperienced sportsman&1
+w/ 26/ a/ 35/  51/  69: The young woman asked the old woman what time the library closes, because *target* had forgotten.&the young woman&the old woman&0
+w/ 26/ b/ 35/  52/  70: The young woman asked the old woman what time the library closes, but *target* had forgotten.&the young woman&the old woman&1
+w/ 27/ a/ 36/  53/  71: I took the green box out of the purple box so that *target* would be handy.&the green box&the purple box&0
+w/ 27/ b/ 36/  54/  72: I took the green box out of the purple box so that *target* would be lighter.&the green box&the purple box&1
+w/ 28/ a/ 39/  55/  77: The cunning man paid for the manipulative man's college education. *target* is very generous.&The cunning man&The manipulative man&0
+w/ 28/ b/ 39/  56/  78: The cunning man paid for the manipulative man's college education. *target* is very grateful.&The cunning man&The manipulative man&1
+w/ 29/ a/ 40/  57/  79: The cunning man paid for the manipulative man's college education, but now the manipulative man acts as though it never happened. *target* is very hurt.&The cunning man&The manipulative man&0
+w/ 29/ b/ 40/  58/  80: The cunning man paid for the manipulative man's college education, but now the manipulative man acts as though it never happened. *target* is very ungrateful.&The cunning man&The manipulative man&1
+w/ 30/ a/ 41/  59/  81: The English man was playing cards with the Swiss man and was way ahead. If the Swiss man hadn't had a sudden run of good luck, *target* would have won.&the English man&the Swiss man&0
+w/ 30/ b/ 41/  60/  82: The English man was playing cards with the Swiss man and was way ahead. If the Swiss man hadn't had a sudden run of good luck, *target* would have lost.&the English man&the Swiss man&1
+w/ 31/ a/ 42/  61/  83: The old janitor can't leave work here until the new janitor arrives to replace him. If the new janitor had left home for work on time, *target* would be gone by this time.&the old janitor&the new janitor&0
+w/ 31/ b/ 42/  62/  84: The old janitor can't leave work here until the new janitor arrives to replace him. If the new janitor had left home for work on time, *target* would be here by this time.&the old janitor&the new janitor&1
+w/ 32/ a/ 43/  63/  85: If the tall man has succeeded in fooling the short man, *target* would have gotten a lot of money.&the tall man&the short man&0
+w/ 32/ b/ 43/  64/  86: If the tall man has succeeded in fooling the short man, *target* would have lost a lot of money.&the tall man&the short man&1
+w/ 33/ a/ 47/  65/  93: The light-haired girl tried frantically to stop the dark-haired girl from chatting at the party, leaving us to wonder why *target* was behaving so strangely.&the light-haired girl&the dark-haired girl&0
+w/ 33/ b/ 47/  66/  94: The light-haired girl tried frantically to stop the dark-haired girl from barking at the party, leaving us to wonder why *target* was behaving so strangely.&the light-haired girl&the dark-haired girl&1
+w/ 34/ a/ 48/  67/  95: I saw a tall man yelling at a short man. I don't know why *target* was, but he looked very unhappy.&the tall man&the short man&0
+w/ 34/ b/ 48/  68/  96: I saw a tall man yelling at a short man. I don't know who *target* was, but he looked very unhappy.&the tall man&the short man&1
+w/ 35/ a/ 49/  69/  97: The yellow fish ate the blue fish. *target* was hungry.&The yellow fish&The blue fish&0
+w/ 35/ b/ 49/  70/  98: The yellow fish ate the blue fish. *target* was tasty.&The yellow fish&The blue fish&1
+w/ 36/ a/ 50/  71/  99: I was trying to open the lock with corrosive fluid, but someone had filled the keyhole with sticky fluid, and I couldn't get *target* in.&corrosive fluid&sticky fluid&0
+w/ 36/ b/ 50/  72/ 100: I was trying to open the lock with corrosive fluid, but someone had filled the keyhole with sticky fluid, and I couldn't get *target* out.&corrosive fluid&sticky fluid&1
+w/ 37/ a/ 51/  73/ 101: The big dog chased the little dog, which ran up a tree. *target* waited at the bottom.&The big dog&The little dog&0
+w/ 37/ b/ 51/  74/ 102: The big dog chased the little dog, which ran up a tree. *target* waited at the top.&The big dog&The little dog&1
+w/ 38/ a/ 53/  75/ 105: The new customer walked into the bank and stabbed the old customer. *target* was immediately taken to the police station.&The new customer&The old customer&0
+w/ 38/ b/ 53/  76/ 106: The new customer walked into the bank and stabbed the old customer. *target* was immediately taken to the hospital.&The new customer&The old customer&1
+w/ 39/ a/ 54/  77/ 107: A patient man was doing research in the library when he heard a glib man humming and whistling. *target* was very annoyed.&The patient man&The glib man&0
+w/ 39/ b/ 54/  78/ 108: A patient man was doing research in the library when he heard a glib man humming and whistling. *target* was very annoying.&The patient man&The glib man&1
+w/ 40/ a/ 56/  79/ 111: The rich man collapsed on the sidewalk. Soon he saw the poor man coming to help. *target* was very ill.&The rich man&The poor man&0
+w/ 40/ b/ 56/  80/ 112: The rich man collapsed on the sidewalk. Soon he saw the poor man coming to help. *target* was very concerned.&The rich man&The poor man&1
+w/ 41/ a/ 58/  81/ 115: The thin man told the fat man many lies about himself, which the fat man included in his book. *target* should have been more truthful.&The thin man&The fat man&0
+w/ 41/ b/ 58/  82/ 116: The thin man told the fat man many lies about himself, which the fat man included in his book. *target* should have been more skeptical.&The thin man&The fat man&1
+w/ 42/ a/ 59/  83/ 117: Joe has sold the wood house and bought the brick house a few miles away. He will be moving out of *target* on Thursday.&the wood house&the brick house&0
+w/ 42/ b/ 59/  84/ 118: Joe has sold the wood house and bought the brick house a few miles away. He will be moving into *target* on Thursday.&the wood house&the brick house&1
+w/ 43/ a/ 63/  85/ 125: Since it was raining, I carried the cloth bag in the paper bag to keep *target* dry.&the cloth bag&the paper bag&0
+w/ 43/ b/ 63/  86/ 126: Since it was raining, I carried the cloth bag over the paper bag to keep *target* dry.&the cloth bag&the paper bag&1
+w/ 44/ a/ 64/  87/ 127: Sara borrowed the criminology paper from the library because she needs it for the sociology paper she is working on. She reads *target* when she gets home from work.&the criminology paper&the sociology paper&0
+w/ 44/ b/ 64/  88/ 128: Sara borrowed the criminology paper from the library because she needs it for the sociology paper she is working on. She writes *target* when she gets home from work.&the criminology paper&the sociology paper&1
+w/ 45/ a/ 66/  89/ 131: The loud woman knocked on the quiet woman's door, but there was no answer. *target* was disappointed.&The loud woman&The quiet woman&0
+w/ 45/ b/ 66/  90/ 132: The loud woman knocked on the quiet woman's door, but there was no answer. *target* was out.&The loud woman&The quiet woman&1
+w/ 46/ a/ 67/  91/ 133: The light-haired woman knocked on the door, and the dark-haired woman answered it. *target* invited her to come out.&The light-haired woman&The dark-haired woman&0
+w/ 46/ b/ 67/  92/ 134: The light-haired woman knocked on the door, and the dark-haired woman answered it. *target* invited her to come in.&The light-haired woman&The dark-haired woman&1
+w/ 47/ a/ 68/  93/ 135: The tall man took French classes from the short man, because *target* was eager to speak it fluently.&the tall man&the short man&0
+w/ 47/ b/ 68/  94/ 136: The tall man took French classes from the short man, because *target* was known to speak it fluently.&the tall man&the short man&1
+w/ 48/ a/ 69/  95/ 137: The main road to the back road was blocked, so we couldn't use *target*.&the main road&the back road&0
+w/ 48/ b/ 69/  96/ 138: The main road to the back road was blocked, so we couldn't reach *target*.&the main road&the back road&1
+w/ 49/ a/ 71/  97/ 141: We went to the lake shore, because a shark had been seen at the ocean shore, so *target* was a safer place to swim.&the lake shore&the ocean shore&0
+w/ 49/ b/ 71/  98/ 142: We went to the lake shore, because a shark had been seen at the ocean shore, so *target* was a dangerous place to swim.&the lake shore&the ocean shore&1
+w/ 50/ a/ 73/  99/ 145: The blonde woman tucked the brunette woman into bed, so that *target* could work.&the blonde woman&the brunette woman&0
+w/ 50/ b/ 73/ 100/ 146: The blonde woman tucked the brunette woman into bed, so that *target* could sleep.&the blonde woman&the brunette woman&1
+w/ 51/ a/ 75/ 101/ 149: The British merchant visited the American merchant's grave in 1765. At that date *target* had been travelling for five years.&the British merchant&the American merchant&0
+w/ 51/ b/ 75/ 102/ 150: The British merchant visited the American merchant's grave in 1765. At that date *target* had been dead for five years.&the British merchant&the American merchant&1
+w/ 52/ a/ 76/ 103/ 151: The French historian was greatly influenced by the German historian, though *target* lived two centuries later.&the French historian&the German historian&0
+w/ 52/ b/ 76/ 104/ 152: The French historian was greatly influenced by the German historian, though *target* lived two centuries earlier.&the French historian&the German historian&1
+w/ 53/ a/ 78/ 105/ 155: The red foxes are getting in at night and attacking the grey foxes. I shall have to kill *target*.&the red foxes&the grey foxes&0
+w/ 53/ b/ 78/ 106/ 156: The red foxes are getting in at night and attacking the grey foxes. I shall have to guard *target*.&the red foxes&the grey foxes&1
+w/ 54/ a/ 79/ 107/ 157: The red foxes are getting in at night and attacking the grey foxes. *target* have gotten very bold.&The red foxes&The grey foxes&0
+w/ 54/ b/ 79/ 108/ 158: The red foxes are getting in at night and attacking the grey foxes. *target* have gotten very nervous.&The red foxes&The grey foxes&1
+w/ 55/ a/ 82/ 109/ 163: The dark-haired man watched TV while the light-haired man went out to buy groceries. After an hour *target* got up.&the dark-haired man&the light-haired man&0
+w/ 55/ b/ 82/ 110/ 164: The dark-haired man watched TV while the light-haired man went out to buy groceries. After an hour *target* got back.&the dark-haired man&the light-haired man&1
+w/ 56/ a/ 84/ 111/ 167: The thin executive is the only man still alive who remembers the tall executive. *target* is a remarkable man.&The thin executive&The tall executive&0
+w/ 56/ b/ 84/ 112/ 168: The thin executive is the only man still alive who remembers the tall executive. *target* was a remarkable man.&The thin executive&The tall executive&1
+w/ 57/ a/ 85/ 113/ 169: The thin executive is the only man alive who still remembers the tall executive as an infant. When the thin executive first saw the tall executive, *target* was twelve years old.&the thin executive&the tall executive&0
+w/ 57/ b/ 85/ 114/ 170: The thin executive is the only man alive who still remembers the tall executive as an infant. When the thin executive first saw the tall executive, *target* was twelve months old.&the thin executive&the tall executive&1
+w/ 58/ a/ 86/ 115/ 171: In July, the northern country declared war on the southern country. Since Yakutsk's army was much better equipped and ten times larger, *target* were defeated within weeks.&the northern country&the southern country&0
+w/ 58/ b/ 86/ 116/ 172: In July, the northern country declared war on the southern country. Since Yakutsk's army was much better equipped and ten times larger, *target* were victorious within weeks.&the northern country&the southern country&1
+w/ 59/ a/ 94/ 117/ 187: Everyone really loved the oatmeal cookies; only a few people liked the chocolate cookies. Next time, we should make more of *target*.&the oatmeal cookies&the chocolate cookies&0
+w/ 59/ b/ 94/ 118/ 188: Everyone really loved the oatmeal cookies; only a few people liked the chocolate cookies. Next time, we should make fewer of *target*.&the oatmeal cookies&the chocolate cookies&1
+w/ 60/ a/ 98/ 119/ 195: The handsome boy follows the clever boy's example in everything. *target* admires him hugely.&The handsome boy&The clever boy&0
+w/ 60/ b/ 98/ 120/ 196: The handsome boy follows the clever boy's example in everything. *target* influences him hugely.&The handsome boy&The clever boy&1
+w/ 61/ a/100/ 121/ 199: Grace was happy to trade me the green jacket for the blue jacket. She thinks *target* looks dowdy on her.&the green jacket&the blue jacket&0
+w/ 61/ b/100/ 122/ 200: Grace was happy to trade me the green jacket for the blue jacket. She thinks *target* looks great on her.&the green jacket&the blue jacket&1
+w/ 62/ a/101/ 123/ 201: The somber man hired the exuberant man to take care of *target*.&the somber man&the exuberant man&0
+w/ 62/ b/101/ 124/ 202: The somber man hired himself out to the exuberant man to take care of *target*.&the somber man&the exuberant man&1
+w/ 63/ a/102/ 125/ 203: The sober man promised the drunk man to leave, so an hour later *target* left.&the sober man&the drunk man&0
+w/ 63/ b/102/ 126/ 204: The sober man ordered the drunk man to leave, so an hour later *target* left.&the sober man&the drunk man&1
+w/ 64/ a/103/ 127/ 205: The modern general's biography of the ancient general conveys a vivid sense of the difficulties *target* faced in his research.&the modern general&the ancient general&0
+w/ 64/ b/103/ 128/ 206: The modern general's biography of the ancient general conveys a vivid sense of the difficulties *target* faced in his childhood.&the modern general&the ancient general&1
+w/ 65/ a/104/ 129/ 207: The mature woman had left the young woman long ago, and *target* place had been taken by an excellent woman as governess.&the mature woman's&the young woman's&0
+w/ 65/ b/104/ 130/ 208: The mature woman had left the young woman long ago, and *target* education had been managed by an excellent woman as governess.&the mature woman's&the young woman's&1
+w/ 66/ a/105/ 131/ 209: The younger girl knocked on the older girl's door but *target* did not get an answer.&the younger girl&the older girl&0
+w/ 66/ b/105/ 132/ 210: The younger girl knocked on the older girl's door but *target* did not answer.&the younger girl&the older girl&1
+w/ 67/ a/107/ 133/ 213: The blonde girl didn't get angry with the brunette girl, who had cut her off, because *target* stopped and counted to ten.&the blonde girl&the brunette girl&0
+w/ 67/ b/107/ 134/ 214: The blonde girl didn't get angry with the brunette girl, who had cut her off, because *target* stopped and apologized.&the blonde girl&the brunette girl&1
+w/ 68/ a/109/ 135/ 217: The popular boy took the rear seat while the athletic boy claimed the front because *target* "Dibs!" was slow.&the popular boy's&the athletic boy's&0
+w/ 68/ b/109/ 136/ 218: The popular boy took the rear seat while the athletic boy claimed the front because *target* "Dibs!" was quicker.&the popular boy's&the athletic boy's&1
+w/ 69/ a/110/ 137/ 219: The good player said "Check" to the bad player as he moved *target* bishop.&the good player's&the bad player's&0
+w/ 69/ b/110/ 138/ 220: The good player said "Check" to the bad player as he took *target* bishop.&the good player's&the bad player's&1
+w/ 70/ a/111/ 139/ 221: As the tall girl in the crop duster passed over the beautiful girl, *target* could see the landing strip.&the tall girl&the beautiful girl&0
+w/ 70/ b/111/ 140/ 222: As the tall girl in the crop duster passed over the beautiful girl, *target* could see the landing gear.&the tall girl&the beautiful girl&1
+w/ 71/ a/112/ 141/ 223: The intelligent boy gave the athletic boy a lift to school so *target* wouldn't have to drive alone.&the intelligent boy&the athletic boy&0
+w/ 71/ b/112/ 142/ 224: The intelligent boy gave the athletic boy a lift to school so *target* wouldn't have to walk.&the intelligent boy&the athletic boy&1
+w/ 72/ a/113/ 143/ 225: The poor man passed the half-empty plate to the tired man because *target* was full.&the poor man&the tired man&0
+w/ 72/ b/113/ 144/ 226: The poor man passed the half-empty plate to the tired man because *target* was hungry.&the poor man&the tired man&1
+w/ 73/ a/114/ 145/ 227: The dark-haired boy passed the Game Boy to the light-haired boy because *target* turn was over.&the dark-haired boy's&the light-haired boy's&0
+w/ 73/ b/114/ 146/ 228: The dark-haired boy passed the Game Boy to the light-haired boy because *target* turn was next.&the dark-haired boy's&the light-haired boy's&1
+w/ 74/ a/115/ 147/ 229: The older boy lifted the younger boy onto *target* shoulders.&the older boy's&the younger boy's&0
+w/ 74/ b/115/ 148/ 230: The older boy lifted the younger boy onto *target* bunk bed.&the older boy's&the younger boy's&1
+w/ 75/ a/116/ 149/ 231: Stretching *target* back, the blonde woman smiled at the brunette woman.&the blonde woman's&the brunette woman's&0
+w/ 75/ b/116/ 150/ 232: Patting *target* back, the blonde woman smiled at the brunette woman.&the blonde woman's&the brunette woman's&1
+w/ 76/ a/117/ 151/ 233: The thin boy cried because the fat boy wouldn't accept *target* toy.&the thin boy's&the fat boy's&0
+w/ 76/ b/117/ 152/ 234: The thin boy cried because the fat boy wouldn't share *target* toy.&the thin boy's&the fat boy's&1
+w/ 77/ a/118/ 153/ 235: The young woman spoke to the thin woman, breaking *target* silence.&the young woman's&the thin woman's&0
+w/ 77/ b/118/ 154/ 236: The young woman spoke to the thin woman, breaking *target* concentration.&the young woman's&the thin woman's&1
+w/ 78/ a/119/ 155/ 237: When the tall boy dropped his ice cream, the short boy giggled, so father gave *target* a sympathetic look.&the tall boy&the short boy&0
+w/ 78/ b/119/ 156/ 238: When the tall boy dropped his ice cream, the short boy giggled, so father gave *target* a stern look.&the tall boy&the short boy&1
+w/ 79/ a/120/ 157/ 239: As the dark-haired boy carried the light-haired boy up the long winding steps, *target* legs ached.&the dark-haired boy's&the light-haired boy's&0
+w/ 79/ b/120/ 158/ 240: As the dark-haired boy carried the light-haired boy up the long winding steps, *target* legs dangled.&the dark-haired boy's&the light-haired boy's&1
+w/ 80/ a/122/ 159/ 243: The tall woman held the short woman against *target* chest.&the tall woman's&the short woman's&0
+w/ 80/ b/122/ 160/ 244: The tall woman held the short woman against *target* will.&the tall woman's&the short woman's&1
+w/ 81/ a/124/ 161/ 247: The tall man had to stop the thin man from toying with the injured bird. *target* is very compassionate.&The tall man&The thin man&0
+w/ 81/ b/124/ 162/ 248: The tall man had to stop the thin man from toying with the injured bird. *target* is very cruel.&The tall man&The thin man&1
+w/ 82/ a/125/ 163/ 249: The Canadian man got free tickets to the play, but he gave them to the American man, even though *target* was particularly eager to see it.&the Canadian man&the American man&0
+w/ 82/ b/125/ 164/ 250: The Canadian man got free tickets to the play, but he gave them to the American man, because *target* was particularly eager to see it.&the Canadian man&the American man&1
+w/ 83/ a/126/ 165/ 251: The younger girl gave the older girl candy because *target* wasn't hungry.&the younger girl&the older girl&0
+w/ 83/ b/126/ 166/ 252: The younger girl gave the older girl candy because *target* was hungry.&the younger girl&the older girl&1
+w/ 84/ a/128/ 167/ 255: The tall man asked the short man for a favor but *target* was refused.&the tall man&the short man&0
+w/ 84/ b/128/ 168/ 256: The tall man asked the short man for a favor but *target* refused.&the tall man&the short man&1
+w/ 85/ a/129/ 169/ 257: The progressive candidate ceded the presidency to the conservative candidate because *target* was less popular.&the progressive candidate&the conservative candidate&0
+w/ 85/ b/129/ 170/ 258: The progressive candidate ceded the presidency to the conservative candidate because *target* was more popular.&the progressive candidate&the conservative candidate&1
+w/ 86/ a/130/ 171/ 259: The light-haired girl did not pass the ball to the dark-haired girl although *target* saw that she was open.&the light-haired girl&the dark-haired girl&0
+w/ 86/ b/130/ 172/ 260: The light-haired girl did not pass the ball to the dark-haired girl although *target* was open.&the light-haired girl&the dark-haired girl&1
+w/ 87/ a/133/ 173/ 265: The tall woman believed that the short woman suspected that *target* had stolen the watch.&the tall woman&the short woman&0
+w/ 87/ b/133/ 174/ 266: The tall woman believed that the short woman regretted that *target* had stolen the watch.&the tall woman&the short woman&1

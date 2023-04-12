@@ -1,0 +1,218 @@
+schema type: Winograd; dataset name: wsc266; perturbation: original minus associative; baseline: remove candidates
+by answer
+w/  1/ a/  1/   1/   1: Refused a permit because *target* feared violence.&the city councilmen&the demonstrators&0
+w/  1/ b/  1/   2/   2: Refused a permit because *target* advocated violence.&the city councilmen&the demonstrators&1
+w/  2/ a/  2/   3/   3: Doesn't fit into because *target* is too large.&the trophy&the suitcase&0
+w/  2/ b/  2/   4/   4: Doesn't fit into because *target* is too small.&the trophy&the suitcase&1
+w/  3/ a/  3/   5/   5: Made sure to thank for all the help *target* had received.&Joan&Susan&0
+w/  3/ b/  3/   6/   6: Made sure to thank for all the help *target* had given.&Joan&Susan&1
+w/  4/ a/  4/   7/   7: Tried to call on the phone, but *target* wasn't successful.&Paul&George&0
+w/  4/ b/  4/   8/   8: Tried to call on the phone, but *target* wasn't available.&Paul&George&1
+w/  5/ a/  5/   9/   9: Asked a question, but *target* was reluctant to repeat it.&the lawyer&the witness&0
+w/  5/ b/  5/  10/  10: Asked a question, but *target* was reluctant to answer it.&the lawyer&the witness&1
+w/  6/ a/  6/  11/  11: Zoomed by because *target* was going so fast.&the delivery truck&the school bus&0
+w/  6/ b/  6/  12/  12: Zoomed by because *target* was going so slow.&the delivery truck&the school bus&1
+w/  7/ a/  7/  13/  13: Felt vindicated when his longtime rival revealed that *target* was the winner of the competition.&Frank&Bill&0
+w/  7/ b/  7/  14/  14: Felt crushed when his longtime rival revealed that *target* was the winner of the competition.&Frank&Bill&1
+w/  8/ a/  8/  15/  15: Couldn't lift because *target* was so weak.&the man&the son&0
+w/  8/ b/  8/  16/  16: Couldn't lift because *target* was so heavy.&the man&the son&1
+w/  9/ a/  9/  17/  17: Crashed right through because *target* was made of steel.&the large ball&the table&0
+w/  9/ b/  9/  18/  18: Crashed right through because *target* was made of styrofoam.&the large ball&the table&1
+w/ 10/ a/ 10/  19/  19: Couldn't see the stage with in front of him because *target* is so short.&John&Billy&0
+w/ 10/ b/ 10/  20/  20: Couldn't see the stage with in front of him because *target* is so tall.&John&Billy&1
+w/ 11/ a/ 11/  21/  21: Threw his schoolbag down to after *target* reached the top of the stairs.&Tom&Ray&0
+w/ 11/ b/ 11/  22/  22: Threw his schoolbag down to after *target* reached the bottom of the stairs.&Tom&Ray&1
+w/ 12/ a/ 12/  23/  23: Although they ran at about the same speed, beat because *target* had such a good start.&Sue&Sally&0
+w/ 12/ b/ 12/  24/  24: Although they ran at about the same speed, beat because *target* had such a bad start.&Sue&Sally&1
+w/ 13/ a/ 13/  25/  25: Rolled off because *target* wasn't anchored.&the sculpture&the shelf&0
+w/ 13/ b/ 13/  26/  26: Rolled off because *target* wasn't level.&the sculpture&the shelf&1
+w/ 14/ a/ 14/  27/  27: Was hung just above and *target* did look much better with another one below it.&Sam's drawing&Tina's drawing&0
+w/ 14/ b/ 14/  28/  28: Was hung just above and *target* did look much better with another one above it.&Sam's drawing&Tina's drawing&1
+w/ 15/ a/ 15/  29/  29: Did a lot better than her good friend on the test because *target* had studied so hard.&Anna&Lucy&0
+w/ 15/ b/ 15/  30/  30: Did a lot worse than her good friend on the test because *target* had studied so hard.&Anna&Lucy&1
+w/ 16/ a/ 16/  31/  31: Arrived after because *target* were coming from so far away.&the firemen&the police&0
+w/ 16/ b/ 16/  32/  32: Arrived before because *target* were coming from so far away.&the firemen&the police&1
+w/ 17/ a/ 17/  33/  33: Was upset with because the toaster *target* had bought from him didn't work.&Frank&Tom&0
+w/ 17/ b/ 17/  34/  34: Was upset with because the toaster *target* had sold him didn't work.&Frank&Tom&1
+w/ 18/ a/ 18/  35/  35: Yelled at because *target* was so upset.&Jim&Kevin&0
+w/ 18/ b/ 18/  36/  36: Comforted because *target* was so upset.&Jim&Kevin&1
+w/ 19/ a/ 19/  37/  37: Had been placed above, so *target* had to be moved first.&the sack of potatoes&the bag of flour&0
+w/ 19/ b/ 19/  38/  38: Had been placed below, so *target* had to be moved first.&the sack of potatoes&the bag of flour&1
+w/ 20/ a/ 20/  39/  39: Envies although *target* is very successful.&Pete&Martin&0
+w/ 20/ b/ 20/  40/  40: Envies because *target* is very successful.&Pete&Martin&1
+w/ 21/ a/ 21/  41/  41: Were bullying, so we punished *target*.&the older students&the younger students&0
+w/ 21/ b/ 21/  42/  42: Were bullying, so we rescued *target*.&the older students&the younger students&1
+w/ 22/ a/ 22/  43/  43: I poured water from into until *target* was empty.&the bottle&the cup&0
+w/ 22/ b/ 22/  44/  44: I poured water from into until *target* was full.&the bottle&the cup&1
+w/ 23/ a/ 23/  45/  45: Knows all about personal problems because *target* is nosy.&Susan&Ann&0
+w/ 23/ b/ 23/  46/  46: Knows all about personal problems because *target* is indiscreet.&Susan&Ann&1
+w/ 24/ a/ 24/  47/  47: Explained his theory to but *target* couldn't convince him.&Sid&Mark&0
+w/ 24/ b/ 24/  48/  48: Explained his theory to but *target* couldn't understand him.&Sid&Mark&1
+w/ 25/ a/ 25/  49/  49: Knew that son had been in a car accident, so *target* told her about it.&Susan&Ann&0
+w/ 25/ b/ 25/  50/  50: Knew that son had been in a car accident, because *target* told her about it.&Susan&Ann&1
+w/ 26/ a/ 26/  51/  51: Can still beat at tennis, even though *target* is 30 years older.&Joe's uncle&Joe&0
+w/ 26/ b/ 26/  52/  52: Can still beat at tennis, even though *target* is 30 years younger.&Joe's uncle&Joe&1
+w/ 27/ a/ 29/  53/  57: Is clogged with. *target* has to be cleaned.&The drain&The hair&0
+w/ 27/ b/ 29/  54/  58: Is clogged with. *target* has to be removed.&The drain&The hair&1
+w/ 28/ a/ 31/  55/  61: There is between me and, and I can't see around *target*.&the pillar&the stage&0
+w/ 28/ b/ 31/  56/  62: There is between me and, and I can't see *target*.&the pillar&the stage&1
+w/ 29/ a/ 32/  57/  63: They broadcast, but came into the station and I couldn't hear *target*.&the announcement&the subway&0
+w/ 29/ b/ 32/  58/  64: They broadcast, but came into the station and I couldn't hear over *target*.&the announcement&the subway&1
+w/ 30/ a/ 33/  59/  65: In the middle of, started falling, but *target* continued until 10.&the concert&the rain&0
+w/ 30/ b/ 33/  60/  66: In the middle of, started falling, and *target* continued until 10.&the concert&the rain&1
+w/ 31/ a/ 34/  61/  67: I used to clean, and then I put *target* in the trash.&the rag&the knife&0
+w/ 31/ b/ 34/  62/  68: I used to clean, and then I put *target* in the drawer.&the rag&the knife&1
+w/ 32/ a/ 35/  63/  69: Asked what time the library closes, because *target* had forgotten.&Ann&Mary&0
+w/ 32/ b/ 35/  64/  70: Asked what time the library closes, but *target* had forgotten.&Ann&Mary&1
+w/ 33/ a/ 36/  65/  71: I took out of so that *target* would be handy.&the water bottle&the backpack&0
+w/ 33/ b/ 36/  66/  72: I took out of so that *target* would be lighter.&the water bottle&the backpack&1
+w/ 34/ a/ 39/  67/  77: Paid for college education. *target* is very generous.&Bob&Charlie&0
+w/ 34/ b/ 39/  68/  78: Paid for college education. *target* is very grateful.&Bob&Charlie&1
+w/ 35/ a/ 40/  69/  79: Paid for college education, but now acts as though it never happened. *target* is very hurt.&Bob&Charlie&0
+w/ 35/ b/ 40/  70/  80: Paid for college education, but now acts as though it never happened. *target* is very ungrateful.&Bob&Charlie&1
+w/ 36/ a/ 41/  71/  81: Was playing cards with and was way ahead. If hadn't had a sudden run of good luck, *target* would have won.&Bob&Adam&0
+w/ 36/ b/ 41/  72/  82: Was playing cards with and was way ahead. If hadn't had a sudden run of good luck, *target* would have lost.&Bob&Adam&1
+w/ 37/ a/ 42/  73/  83: Can't leave work here until arrives to replace him. If had left home for work on time, *target* would be gone by this time.&Adam&Bob&0
+w/ 37/ b/ 42/  74/  84: Can't leave work here until arrives to replace him. If had left home for work on time, *target* would be here by this time.&Adam&Bob&1
+w/ 38/ a/ 43/  75/  85: If has succeeded in fooling, *target* would have gotten a lot of money.&the con artist&Sam&0
+w/ 38/ b/ 43/  76/  86: If has succeeded in fooling, *target* would have lost a lot of money.&the con artist&Sam&1
+w/ 39/ a/ 45/  77/  89: Was lying by hole waiting for, but *target* was too impatient.&the cat&the mouse&0
+w/ 39/ b/ 45/  78/  90: Was lying by hole waiting for, but *target* was too cautious.&the cat&the mouse&1
+w/ 40/ a/ 46/  79/  91: Gave birth to last month. *target* is a very charming woman.&Anne&Anne's daughter&0
+w/ 40/ b/ 46/  80/  92: Gave birth to last month. *target* is a very charming baby.&Anne&Anne's daughter&1
+w/ 41/ a/ 47/  81/  93: Tried frantically to stop from chatting at the party, leaving us to wonder why *target* was behaving so strangely.&Alice&Alice's daughter&0
+w/ 41/ b/ 47/  82/  94: Tried frantically to stop from barking at the party, leaving us to wonder why *target* was behaving so strangely.&Alice&Alice's daughter&1
+w/ 42/ a/ 48/  83/  95: I saw yelling at. I don't know why *target* was, but he looked very unhappy.&Jim&the guy in uniform&0
+w/ 42/ b/ 48/  84/  96: I saw yelling at. I don't know who *target* was, but he looked very unhappy.&Jim&the guy in uniform&1
+w/ 43/ a/ 49/  85/  97: Ate. *target* was hungry.&The fish&The worm&0
+w/ 43/ b/ 49/  86/  98: Ate. *target* was tasty.&The fish&The worm&1
+w/ 44/ a/ 51/  87/ 101: Chased, which ran up a tree. *target* waited at the bottom.&The dog&The cat&0
+w/ 44/ b/ 51/  88/ 102: Chased, which ran up a tree. *target* waited at the top.&The dog&The cat&1
+w/ 45/ a/ 53/  89/ 105: Walked into the bank and stabbed. *target* was immediately taken to the police station.&The customer&The teller&0
+w/ 45/ b/ 53/  90/ 106: Walked into the bank and stabbed. *target* was immediately taken to the hospital.&The customer&The teller&1
+w/ 46/ a/ 54/  91/ 107: Was doing research in the library when he heard humming and whistling. *target* was very annoyed.&John&The man&0
+w/ 46/ b/ 54/  92/ 108: Was doing research in the library when he heard humming and whistling. *target* was very annoying.&John&The man&1
+w/ 47/ a/ 56/  93/ 111: Collapsed on the sidewalk. Soon he saw coming to help. *target* was very ill.&Bob&Carl&0
+w/ 47/ b/ 56/  94/ 112: Collapsed on the sidewalk. Soon he saw coming to help. *target* was very concerned.&Bob&Carl&1
+w/ 48/ a/ 58/  95/ 115: Told many lies about himself, which included in his book. *target* should have been more truthful.&Mark&Pete&0
+w/ 48/ b/ 58/  96/ 116: Told many lies about himself, which included in his book. *target* should have been more skeptical.&Mark&Pete&1
+w/ 49/ a/ 62/  97/ 123: Sam pulled up to, but *target* was broken, so he had to stand instead.&the chair&the piano&0
+w/ 49/ b/ 62/  98/ 124: Sam pulled up to, but *target* was broken, so he had to sing instead.&the chair&the piano&1
+w/ 50/ a/ 63/  99/ 125: Since it was raining, I carried in to keep *target* dry.&the newspaper&the backpack&0
+w/ 50/ b/ 63/ 100/ 126: Since it was raining, I carried over to keep *target* dry.&the newspaper&the backpack&1
+w/ 51/ a/ 64/ 101/ 127: Sara borrowed from the library because she needs it for she is working on. She reads *target* when she gets home from work.&the book&the article&0
+w/ 51/ b/ 64/ 102/ 128: Sara borrowed from the library because she needs it for she is working on. She writes *target* when she gets home from work.&the book&the article&1
+w/ 52/ a/ 65/ 103/ 129: This morning, Joey built on the beach, and put in the highest tower, but this afternoon the tide knocked *target* down.&the sand castle&the flag&0
+w/ 52/ b/ 65/ 104/ 130: This morning, Joey built on the beach, and put in the highest tower, but this afternoon the wind knocked *target* down.&the sand castle&the flag&1
+w/ 53/ a/ 66/ 105/ 131: Knocked on door, but there was no answer. *target* was disappointed.&Jane&Susan&0
+w/ 53/ b/ 66/ 106/ 132: Knocked on door, but there was no answer. *target* was out.&Jane&Susan&1
+w/ 54/ a/ 67/ 107/ 133: Knocked on the door, and answered it. *target* invited her to come out.&Jane&Susan&0
+w/ 54/ b/ 67/ 108/ 134: Knocked on the door, and answered it. *target* invited her to come in.&Jane&Susan&1
+w/ 55/ a/ 68/ 109/ 135: Took French classes from, because *target* was eager to speak it fluently.&Sam&Adam&0
+w/ 55/ b/ 68/ 110/ 136: Took French classes from, because *target* was known to speak it fluently.&Sam&Adam&1
+w/ 56/ a/ 71/ 111/ 141: We went to, because a shark had been seen at, so *target* was a safer place to swim.&the lake&the ocean beach&0
+w/ 56/ b/ 71/ 112/ 142: We went to, because a shark had been seen at, so *target* was a dangerous place to swim.&the lake&the ocean beach&1
+w/ 57/ a/ 72/ 113/ 143: Sam tried to paint a picture of with, but *target* ended up looking more like golfers.&the shepherds&the sheep&0
+w/ 57/ b/ 72/ 114/ 144: Sam tried to paint a picture of with, but *target* ended up looking more like dogs.&the shepherds&the sheep&1
+w/ 58/ a/ 73/ 115/ 145: Tucked into bed, so that *target* could work.&Mary&Mary's daughter&0
+w/ 58/ b/ 73/ 116/ 146: Tucked into bed, so that *target* could sleep.&Mary&Mary's daughter&1
+w/ 59/ a/ 75/ 117/ 149: Visited grave in 1765. At that date *target* had been travelling for five years.&Thomson&Cooper&0
+w/ 59/ b/ 75/ 118/ 150: Visited grave in 1765. At that date *target* had been dead for five years.&Thomson&Cooper&1
+w/ 60/ a/ 76/ 119/ 151: Was greatly influenced by, though *target* lived two centuries later.&Jackson&Arnold&0
+w/ 60/ b/ 76/ 120/ 152: Was greatly influenced by, though *target* lived two centuries earlier.&Jackson&Arnold&1
+w/ 61/ a/ 77/ 121/ 153: I can't cut down with; *target* is too thick.&the tree&the axe&0
+w/ 61/ b/ 77/ 122/ 154: I can't cut down with; *target* is too small.&the tree&the axe&1
+w/ 62/ a/ 79/ 123/ 157: Are getting in at night and attacking. *target* have gotten very bold.&The foxes&The chickens&0
+w/ 62/ b/ 79/ 124/ 158: Are getting in at night and attacking. *target* have gotten very nervous.&The foxes&The chickens&1
+w/ 63/ a/ 81/ 125/ 161: The actress used to be named, but she changed it to a few years ago, because she figured *target* was too hard to pronounce.&Terpsichore&Tina&0
+w/ 63/ b/ 81/ 126/ 162: The actress used to be named, but she changed it to a few years ago, because she figured *target* was easier to pronounce.&Terpsichore&Tina&1
+w/ 64/ a/ 82/ 127/ 163: Watched TV while went out to buy groceries. After an hour *target* got up.&Fred&George&0
+w/ 64/ b/ 82/ 128/ 164: Watched TV while went out to buy groceries. After an hour *target* got back.&Fred&George&1
+w/ 65/ a/ 83/ 129/ 165: Fred was supposed to run, but he put it off, because he wanted to watch. But the show turned out to be boring, so he changed his mind and turned *target* on.&the dishwasher&the TV&0
+w/ 65/ b/ 83/ 130/ 166: Fred was supposed to run, but he put it off, because he wanted to watch. But the show turned out to be boring, so he changed his mind and turned *target* off.&the dishwasher&the TV&1
+w/ 66/ a/ 84/ 131/ 167: Is the only man still alive who remembers. *target* is a remarkable man.&Fred&My great-grandfather&0
+w/ 66/ b/ 84/ 132/ 168: Is the only man still alive who remembers. *target* was a remarkable man.&Fred&My great-grandfather&1
+w/ 67/ a/ 85/ 133/ 169: Is the only man alive who still remembers as an infant. When first saw, *target* was twelve years old.&Fred&my father&0
+w/ 67/ b/ 85/ 134/ 170: Is the only man alive who still remembers as an infant. When first saw, *target* was twelve months old.&Fred&my father&1
+w/ 68/ a/ 86/ 135/ 171: In July, declared war on. Since army was much better equipped and ten times larger, *target* were defeated within weeks.&Kamchatka&Yakutsk&0
+w/ 68/ b/ 86/ 136/ 172: In July, declared war on. Since army was much better equipped and ten times larger, *target* were victorious within weeks.&Kamchatka&Yakutsk&1
+w/ 69/ a/ 89/ 137/ 177: Interviewed of the new movie. *target* were very persistent, so the interview lasted for a long time.&The journalists&The stars&0
+w/ 69/ b/ 89/ 138/ 178: Interviewed of the new movie. *target* were very cooperative, so the interview lasted for a long time.&The journalists&The stars&1
+w/ 70/ a/ 93/ 139/ 185: When of the bill got to the town hall, they were surprised to find that the room was full of. *target* were very much in the minority.&The sponsors&The opponents&0
+w/ 70/ b/ 93/ 140/ 186: When of the bill got to the town hall, they were surprised to find that the room was full of. *target* were very much in the majority.&The sponsors&The opponents&1
+w/ 71/ a/ 94/ 141/ 187: Everyone really loved; only a few people liked. Next time, we should make more of *target*.&the oatmeal cookies&the chocolate chip cookies&0
+w/ 71/ b/ 94/ 142/ 188: Everyone really loved; only a few people liked. Next time, we should make fewer of *target*.&the oatmeal cookies&the chocolate chip cookies&1
+w/ 72/ a/ 95/ 143/ 189: We had hoped to place on all in the auditorium, but there were simply not enough *target*.&copies of the newsletter&chairs&0
+w/ 72/ b/ 95/ 144/ 190: We had hoped to place on all in the auditorium, but there were simply too many *target*.&copies of the newsletter&chairs&1
+w/ 73/ a/ 97/ 145/ 193: I couldn't find a spoon, so I tried using to stir. But that turned out to be a bad idea, because *target* got full of coffee.&the pen&the coffee&0
+w/ 73/ b/ 97/ 146/ 194: I couldn't find a spoon, so I tried using to stir. But that turned out to be a bad idea, because *target* got full of ink.&the pen&the coffee&1
+w/ 74/ a/ 98/ 147/ 195: Follows example in everything. *target* admires him hugely.&Steve&Fred&0
+w/ 74/ b/ 98/ 148/ 196: Follows example in everything. *target* influences him hugely.&Steve&Fred&1
+w/ 75/ a/ 99/ 149/ 197: Won't fit through because *target* is too wide.&the table&the doorway&0
+w/ 75/ b/ 99/ 150/ 198: Won't fit through because *target* is too narrow.&the table&the doorway&1
+w/ 76/ a/100/ 151/ 199: Grace was happy to trade me for. She thinks *target* looks dowdy on her.&the sweater&the jacket&0
+w/ 76/ b/100/ 152/ 200: Grace was happy to trade me for. She thinks *target* looks great on her.&the sweater&the jacket&1
+w/ 77/ a/101/ 153/ 201: Hired to take care of *target*.&John&Bill&0
+w/ 77/ b/101/ 154/ 202: Hired himself out to to take care of *target*.&John&Bill&1
+w/ 78/ a/102/ 155/ 203: Promised to leave, so an hour later *target* left.&John&Bill&0
+w/ 78/ b/102/ 156/ 204: Ordered to leave, so an hour later *target* left.&John&Bill&1
+w/ 79/ a/103/ 157/ 205: Biography of conveys a vivid sense of the difficulties *target* faced in his research.&Goodman&Xenophanes&0
+w/ 79/ b/103/ 158/ 206: Biography of conveys a vivid sense of the difficulties *target* faced in his childhood.&Goodman&Xenophanes&1
+w/ 80/ a/104/ 159/ 207: Had left long ago, and *target* place had been taken by an excellent woman as governess.&Emma's mother's&Emma's&0
+w/ 80/ b/104/ 160/ 208: Had left long ago, and *target* education had been managed by an excellent woman as governess.&Emma's mother's&Emma's&1
+w/ 81/ a/105/ 161/ 209: Knocked on door but *target* did not get an answer.&Jane&Susan&0
+w/ 81/ b/105/ 162/ 210: Knocked on door but *target* did not answer.&Jane&Susan&1
+w/ 82/ a/106/ 163/ 211: Paid after *target* received the final report on the case.&Joe&the detective&0
+w/ 82/ b/106/ 164/ 212: Paid after *target* delivered the final report on the case.&Joe&the detective&1
+w/ 83/ a/107/ 165/ 213: Didn't get angry with, who had cut her off, because *target* stopped and counted to ten.&Beth&Sally&0
+w/ 83/ b/107/ 166/ 214: Didn't get angry with, who had cut her off, because *target* stopped and apologized.&Beth&Sally&1
+w/ 84/ a/108/ 167/ 215: Signaled and gestured toward *target* empty glass.&Jim's&the barman's&0
+w/ 84/ b/108/ 168/ 216: Signaled and gestured toward *target* bathroom key.&Jim's&the barman's&1
+w/ 85/ a/109/ 169/ 217: Took the rear seat while claimed the front because *target* "Dibs!" was slow.&Dan's&Bill's&0
+w/ 85/ b/109/ 170/ 218: Took the rear seat while claimed the front because *target* "Dibs!" was quicker.&Dan's&Bill's&1
+w/ 86/ a/110/ 171/ 219: Said "Check" to as he moved *target* bishop.&Tom's&Ralph's&0
+w/ 86/ b/110/ 172/ 220: Said "Check" to as he took *target* bishop.&Tom's&Ralph's&1
+w/ 87/ a/111/ 173/ 221: As in the crop duster passed over, *target* could see the landing strip.&Andrea&Susan&0
+w/ 87/ b/111/ 174/ 222: As in the crop duster passed over, *target* could see the landing gear.&Andrea&Susan&1
+w/ 88/ a/112/ 175/ 223: Gave a lift to school so *target* wouldn't have to drive alone.&Tom&Ralph&0
+w/ 88/ b/112/ 176/ 224: Gave a lift to school so *target* wouldn't have to walk.&Tom&Ralph&1
+w/ 89/ a/113/ 177/ 225: Passed the half-empty plate to because *target* was full.&Bill&John&0
+w/ 89/ b/113/ 178/ 226: Passed the half-empty plate to because *target* was hungry.&Bill&John&1
+w/ 90/ a/114/ 179/ 227: Passed the Game Boy to because *target* turn was over.&Bill's&John's&0
+w/ 90/ b/114/ 180/ 228: Passed the Game Boy to because *target* turn was next.&Bill's&John's&1
+w/ 91/ a/116/ 181/ 231: Stretching *target* back, smiled at.&the woman's&the girl's&0
+w/ 91/ b/116/ 182/ 232: Patting *target* back, smiled at.&the woman's&the girl's&1
+w/ 92/ a/117/ 183/ 233: Cried because wouldn't accept *target* toy.&Billy's&Toby's&0
+w/ 92/ b/117/ 184/ 234: Cried because wouldn't share *target* toy.&Billy's&Toby's&1
+w/ 93/ a/118/ 185/ 235: Spoke to, breaking *target* silence.&Lily's&Donna's&0
+w/ 93/ b/118/ 186/ 236: Spoke to, breaking *target* concentration.&Lily's&Donna's&1
+w/ 94/ a/119/ 187/ 237: When dropped his ice cream, giggled, so father gave *target* a sympathetic look.&Tommy&Timmy&0
+w/ 94/ b/119/ 188/ 238: When dropped his ice cream, giggled, so father gave *target* a stern look.&Tommy&Timmy&1
+w/ 95/ a/120/ 189/ 239: As carried up the long winding steps, *target* legs ached.&Ollie's&Tommy's&0
+w/ 95/ b/120/ 190/ 240: As carried up the long winding steps, *target* legs dangled.&Ollie's&Tommy's&1
+w/ 96/ a/121/ 191/ 241: Carried in *target* arms.&the father's&the boy's&0
+w/ 96/ b/121/ 192/ 242: Carried in *target* bassinet.&the father's&the boy's&1
+w/ 97/ a/122/ 193/ 243: Held against *target* chest.&the woman's&the girl's&0
+w/ 97/ b/122/ 194/ 244: Held against *target* will.&the woman's&the girl's&1
+w/ 98/ a/123/ 195/ 245: Informed that *target* had retired and presented several options for future treatment.&Dr. Adams&Kate&0
+w/ 98/ b/123/ 196/ 246: Informed that *target* had cancer and presented several options for future treatment.&Dr. Adams&Kate&1
+w/ 99/ a/124/ 197/ 247: Had to stop from toying with the injured bird. *target* is very compassionate.&Dan&Bill&0
+w/ 99/ b/124/ 198/ 248: Had to stop from toying with the injured bird. *target* is very cruel.&Dan&Bill&1
+w/100/ a/125/ 199/ 249: Got free tickets to the play, but he gave them to, even though *target* was particularly eager to see it.&George&Eric&0
+w/100/ b/125/ 200/ 250: Got free tickets to the play, but he gave them to, because *target* was particularly eager to see it.&George&Eric&1
+w/101/ a/126/ 201/ 251: Gave candy because *target* wasn't hungry.&Jane&Joan&0
+w/101/ b/126/ 202/ 252: Gave candy because *target* was hungry.&Jane&Joan&1
+w/102/ a/127/ 203/ 253: I tried to paint a picture of an orchard, with in, but *target* came out looking more like light bulbs.&the lemons&the lemon trees&0
+w/102/ b/127/ 204/ 254: I tried to paint a picture of an orchard, with in, but *target* came out looking more like telephone poles.&the lemons&the lemon trees&1
+w/103/ a/128/ 205/ 255: Asked for a favor but *target* was refused.&James&Robert&0
+w/103/ b/128/ 206/ 256: Asked for a favor but *target* refused.&James&Robert&1
+w/104/ a/129/ 207/ 257: Ceded the presidency to because *target* was less popular.&Kirilov&Shatov&0
+w/104/ b/129/ 208/ 258: Ceded the presidency to because *target* was more popular.&Kirilov&Shatov&1
+w/105/ a/130/ 209/ 259: Did not pass the ball to although *target* saw that she was open.&Emma&Janie&0
+w/105/ b/130/ 210/ 260: Did not pass the ball to although *target* was open.&Emma&Janie&1
+w/106/ a/131/ 211/ 261: Fired because *target* couldn't stand her boyfriend.&Madonna&the trainer&0
+w/106/ b/131/ 212/ 262: Fired because *target* slept with her boyfriend.&Madonna&the trainer&1
+w/107/ a/132/ 213/ 263: Fired because she slept with *target* boyfriend.&Madonna's&the trainer's&0
+w/107/ b/132/ 214/ 264: Fired because she couldn't stand *target* boyfriend.&Madonna's&the trainer's&1
+w/108/ a/133/ 215/ 265: Believed that suspected that *target* had stolen the watch.&Carol&Rebecca&0
+w/108/ b/133/ 216/ 266: Believed that regretted that *target* had stolen the watch.&Carol&Rebecca&1

@@ -1,0 +1,252 @@
+schema type: adversarial; dataset name: reid250; selection: all schemas
+by key
+s/  1/ a/  1/   1/   1: *target* cats are fewer than four cats.&Three&Five&0
+s/  1/ b/  1/   2/   2: *target* cats are more than four cats.&Three&Five&1
+s/  2/ a/  2/   3/   3: *target* rats are fewer than six mice.&Five&Seven&0
+s/  2/ b/  2/   4/   4: *target* rats are more than six mice.&Five&Seven&1
+s/  3/ a/  3/   5/   5: *target* objects are less numerous than twelve objects.&Eight&Eighteen&0
+s/  3/ b/  3/   6/   6: *target* objects are more numerous than twelve objects.&Eight&Eighteen&1
+s/  4/ a/  4/   7/   7: *target* large fish are outnumbered by three small fish.&Two&Four&0
+s/  4/ b/  4/   8/   8: *target* large fish outnumber three small fish.&Two&Four&1
+s/  5/ a/  5/   9/   9: *target* is less than nine.&Six&Twelve&0
+s/  5/ b/  5/  10/  10: *target* is more than nine.&Six&Twelve&1
+s/  6/ a/  6/  11/  11: *target* is less than four thousand.&Eight hundred&Two million&0
+s/  6/ b/  6/  12/  12: *target* is more than four thousand.&Eight hundred&Two million&1
+s/  7/ a/  7/  13/  13: *target* is less than four thousand.&Four&Four hundred thousand&0
+s/  7/ b/  7/  14/  14: *target* is more than four thousand.&Four&Four hundred thousand&1
+s/  8/ a/  8/  15/  15: Two plus *target* is seven.&five&six&0
+s/  8/ b/  8/  16/  16: Two plus *target* is eight.&five&six&1
+s/  9/ a/  9/  17/  17: Sixteen minus *target* is twelve.&four&eight&0
+s/  9/ b/  9/  18/  18: Sixteen minus *target* is eight.&four&eight&1
+s/ 10/ a/ 10/  19/  19: Five times *target* is twenty.&four&three&0
+s/ 10/ b/ 10/  20/  20: Five times *target* is fifteen.&four&three&1
+s/ 11/ a/ 11/  21/  21: Eight slices of cake can be divided evenly among *target* guests.&four&five&0
+s/ 11/ b/ 11/  22/  22: Eight slices of cake cannot be divided evenly among *target* guests.&four&five&1
+s/ 12/ a/ 12/  23/  23: Fifteen items can be divided evenly among *target* recipients.&five&six&0
+s/ 12/ b/ 12/  24/  24: Fifteen items cannot be divided evenly among *target* recipients.&five&six&1
+s/ 13/ a/ 13/  25/  25: *target* guests can divide nine slices of pie evenly.&Three&Four&0
+s/ 13/ b/ 13/  26/  26: *target* guests cannot divide nine slices of pie evenly.&Three&Four&1
+s/ 14/ a/ 14/  27/  27: *target* out of ten apples is less than half of them.&Four&Six&0
+s/ 14/ b/ 14/  28/  28: *target* out of ten apples is more than half of them.&Four&Six&1
+s/ 15/ a/ 15/  29/  29: If you eat *target* of your twelve apples, you will have more than half of them left.&five&seven&0
+s/ 15/ b/ 15/  30/  30: If you eat *target* of your twelve apples, you will have less than half of them left.&five&seven&1
+s/ 16/ a/ 16/  31/  31: If you eat *target* of your apples, then you will have all of them left.&none&all&0
+s/ 16/ b/ 16/  32/  32: If you eat *target* of your apples, then you will have none of them left.&none&all&1
+s/ 17/ a/ 17/  33/  33: All deserts are *target*.&arid&sandy&0
+s/ 17/ b/ 17/  34/  34: Not all deserts are *target*.&arid&sandy&1
+s/ 18/ a/ 18/  35/  35: No deserts are not *target*.&arid&sandy&0
+s/ 18/ b/ 18/  36/  36: Some deserts are not *target*.&arid&sandy&1
+s/ 19/ a/ 19/  37/  37: Every mountain is *target*.&elevated&snowy&0
+s/ 19/ b/ 19/  38/  38: Not every mountain is *target*.&elevated&snowy&1
+s/ 20/ a/ 20/  39/  39: Fresh water is never *target*.&salty&potable&0
+s/ 20/ b/ 20/  40/  40: Fresh water is sometimes *target*.&salty&potable&1
+s/ 21/ a/ 21/  41/  41: Ocean water is never not *target*.&salty&cold&0
+s/ 21/ b/ 21/  42/  42: Ocean water is sometimes not *target*.&salty&cold&1
+s/ 22/ a/ 22/  43/  43: All bananas are *target*.&fruit&plantains&0
+s/ 22/ b/ 22/  44/  44: Not all bananas are *target*.&fruit&plantains&1
+s/ 23/ a/ 23/  45/  45: Every radish is a *target*.&vegetable&daikon&0
+s/ 23/ b/ 23/  46/  46: Not every radish is a *target*.&vegetable&daikon&1
+t/ 24/ a/ 24/  47/  47: All *target* are *target2*.&oranges¶fruit&fruit¶oranges&0
+t/ 24/ b/ 24/  48/  48: Not all *target* are *target2*.&oranges¶fruit&fruit¶oranges&1
+t/ 25/ a/ 25/  49/  49: All *target* are *target2*.&chestnuts¶nuts&nuts¶chestnuts&0
+t/ 25/ b/ 25/  50/  50: Not all *target* are *target2*.&chestnuts¶nuts&nuts¶chestnuts&1
+t/ 26/ a/ 26/  51/  51: No *target* are not *target2*.&cantaloupes¶melons&melons¶cantaloupes&0
+t/ 26/ b/ 26/  52/  52: Some *target* are not *target2*.&cantaloupes¶melons&melons¶cantaloupes&1
+t/ 27/ a/ 27/  53/  53: All *target* are *target2*.&orcas¶dolphins&dolphins¶orcas&0
+t/ 27/ b/ 27/  54/  54: Not all *target* are *target2*.&orcas¶dolphins&dolphins¶orcas&1
+t/ 28/ a/ 28/  55/  55: All *target* are *target2*.&Germans¶Europeans&Europeans¶Germans&0
+t/ 28/ b/ 28/  56/  56: Not all *target* are *target2*.&Germans¶Europeans&Europeans¶Germans&1
+t/ 29/ a/ 29/  57/  57: *target* are never not *target2*.&Ants¶insects&Insects¶ants&0
+t/ 29/ b/ 29/  58/  58: *target* are sometimes not *target2*.&Ants¶insects&Insects¶ants&1
+t/ 30/ a/ 30/  59/  59: *target* include all *target2*.&Primates¶gorillas&Gorillas¶primates&0
+t/ 30/ b/ 30/  60/  60: *target* do not include all *target2*.&Primates¶gorillas&Gorillas¶primates&1
+t/ 31/ a/ 31/  61/  61: Every species of *target* is a *target2*.&shark¶fish&fish¶shark&0
+t/ 31/ b/ 31/  62/  62: Not every species of *target* is a *target2*.&shark¶fish&fish¶shark&1
+s/ 32/ a/ 32/  63/  63: Some *target* are snakes.&reptiles&birds&0
+s/ 32/ b/ 32/  64/  64: No *target* are snakes.&reptiles&birds&1
+s/ 33/ a/ 33/  65/  65: Some *target* are venomous.&snakes&crocodiles&0
+s/ 33/ b/ 33/  66/  66: No *target* are venomous.&snakes&crocodiles&1
+s/ 34/ a/ 34/  67/  67: Some *target* can fly.&birds&penguins&0
+s/ 34/ b/ 34/  68/  68: No *target* can fly.&birds&penguins&1
+s/ 35/ a/ 35/  69/  69: Some *target* are aquatic.&snakes&camels&0
+s/ 35/ b/ 35/  70/  70: No *target* are aquatic.&snakes&camels&1
+s/ 36/ a/ 36/  71/  71: Cats are never not *target*.&mammals&pets&0
+s/ 36/ b/ 36/  72/  72: Cats are sometimes not *target*.&mammals&pets&1
+s/ 37/ a/ 37/  73/  73: Seals hunt *target*.&fish&orcas&0
+s/ 37/ b/ 37/  74/  74: Seals get hunted by *target*.&fish&orcas&1
+s/ 38/ a/ 38/  75/  75: Gazelles eat *target*.&plants&cheetahs&0
+s/ 38/ b/ 38/  76/  76: Gazelles get eaten by *target*.&plants&cheetahs&1
+s/ 39/ a/ 39/  77/  77: Mice are more numerous than *target*.&elephants&ants&0
+s/ 39/ b/ 39/  78/  78: Mice are less numerous than *target*.&elephants&ants&1
+t/ 40/ a/ 40/  79/  79: *target* outnumber *target2*.&Squirrels¶chimpanzees&Chimpanzees¶squirrels&0
+t/ 40/ b/ 40/  80/  80: *target* are outnumbered by *target2*.&Squirrels¶chimpanzees&Chimpanzees¶squirrels&1
+s/ 41/ a/ 41/  81/  81: Dogs can lift more weight than *target*.&guinea pigs&gorillas&0
+s/ 41/ b/ 41/  82/  82: Dogs cannot lift more weight than *target*.&guinea pigs&gorillas&1
+t/ 42/ a/ 42/  83/  83: *target* can lift more weight than *target2*.&Badgers¶butterflies&Butterflies¶badgers&0
+t/ 42/ b/ 42/  84/  84: *target* cannot lift more weight than *target2*.&Badgers¶butterflies&Butterflies¶badgers&1
+t/ 43/ a/ 43/  85/  85: *target* hunt *target2*.&Cats¶mice&Mice¶cats&0
+t/ 43/ b/ 43/  86/  86: *target* do not hunt *target2*.&Cats¶mice&Mice¶cats&1
+t/ 44/ a/ 44/  87/  87: *target* eat *target2*.&Shrikes¶bees&Bees¶shrikes&0
+t/ 44/ b/ 44/  88/  88: *target* do not eat *target2*.&Shrikes¶bees&Bees¶shrikes&1
+t/ 45/ a/ 45/  89/  89: The larval form of a *target* is a *target2*.&butterfly or moth¶caterpillar&caterpillar¶butterfly or moth&0
+t/ 45/ b/ 45/  90/  90: The adult form of a *target* is a *target2*.&butterfly or moth¶caterpillar&caterpillar¶butterfly or moth&1
+t/ 46/ a/ 46/  91/  91: A *target* is the adult form of a *target2*.&ferret¶kit&kit¶ferret&0
+t/ 46/ b/ 46/  92/  92: A *target* is the juvenile form of a *target2*.&ferret¶kit&kit¶ferret&1
+t/ 47/ a/ 47/  93/  93: A young *target* is a *target2*.&cat¶kitten&kitten¶cat&0
+t/ 47/ b/ 47/  94/  94: A mature *target* is a *target2*.&cat¶kitten&kitten¶cat&1
+t/ 48/ a/ 48/  95/  95: *target* is the larval form of *target2*.&A tadpole¶an amphibian&An amphibian¶a tadpole&0
+t/ 48/ b/ 48/  96/  96: *target* is the mature form of *target2*.&A tadpole¶an amphibian&An amphibian¶a tadpole&1
+s/ 49/ a/ 49/  97/  97: *target* water contains a lot of salt.&Sea&Fresh&0
+s/ 49/ b/ 49/  98/  98: *target* water contains little salt.&Sea&Fresh&1
+t/ 50/ a/ 50/  99/  99: *target* water contains more salt than *target2* water.&Sea¶fresh&Fresh¶sea&0
+t/ 50/ b/ 50/ 100/ 100: *target* water contains less salt than *target2* water.&Sea¶fresh&Fresh¶sea&1
+s/ 51/ a/ 51/ 101/ 101: *target* is less dense than water.&Air&Gold&0
+s/ 51/ b/ 51/ 102/ 102: *target* is more dense than water.&Air&Gold&1
+t/ 52/ a/ 52/ 103/ 103: *target* is more dense than *target2*.&Mercury¶carbon&Carbon¶mercury&0
+t/ 52/ b/ 52/ 104/ 104: *target* is less dense than *target2*.&Mercury¶carbon&Carbon¶mercury&1
+s/ 53/ a/ 53/ 105/ 105: Asphyxiation kills more quickly than *target*.&starvation&decapitation&0
+s/ 53/ b/ 53/ 106/ 106: Asphyxiation kills more slowly than *target*.&starvation&decapitation&1
+t/ 54/ a/ 54/ 107/ 107: *target* kills more quickly than *target2*.&Thirst¶hunger&Hunger¶thirst&0
+t/ 54/ b/ 54/ 108/ 108: *target* kills more slowly than *target2*.&Thirst¶hunger&Hunger¶thirst&1
+s/ 55/ a/ 55/ 109/ 109: A lamp, compared to a *target*, burns more brightly.&candle&bonfire&0
+s/ 55/ b/ 55/ 110/ 110: A lamp, compared to a *target*, burns less brightly.&candle&bonfire&1
+t/ 56/ a/ 56/ 111/ 111: A *target*, compared to a *target2*, produces less light.&flashlight¶car headlight&car headlight¶flashlight&0
+t/ 56/ b/ 56/ 112/ 112: A *target*, compared to a *target2*, produces more light.&flashlight¶car headlight&car headlight¶flashlight&1
+s/ 57/ a/ 57/ 113/ 113: *target* water is ice.&Frozen&Evaporated&0
+s/ 57/ b/ 57/ 114/ 114: *target* water is steam.&Frozen&Evaporated&1
+t/ 58/ a/ 58/ 115/ 115: *target* can freeze into *target2*.&Water¶ice&Ice¶water&0
+t/ 58/ b/ 58/ 116/ 116: *target* can melt into *target2*.&Water¶ice&Ice¶water&1
+t/ 59/ a/ 59/ 117/ 117: *target* can evaporate into *target2*.&Water¶steam&Steam¶water&0
+t/ 59/ b/ 59/ 118/ 118: *target* can condense into *target2*.&Water¶steam&Steam¶water&1
+s/ 60/ a/ 60/ 119/ 119: Food should be *target* before it goes bad.&perserved&discarded&0
+s/ 60/ b/ 60/ 120/ 120: Food should be *target* after it goes bad.&perserved&discarded&1
+s/ 61/ a/ 61/ 121/ 121: Food that has gone bad is too late to be *target*.&preserved&discarded&0
+s/ 61/ b/ 61/ 122/ 122: Food that has gone bad is ready to be *target*.&preserved&discarded&1
+t/ 62/ a/ 62/ 123/ 123: *target* is served before *target2*.&A main course¶dessert&Dessert¶a main course&0
+t/ 62/ b/ 62/ 124/ 124: *target* is served after *target2*.&A main course¶dessert&Dessert¶a main course&1
+t/ 63/ a/ 63/ 125/ 125: *target* is eaten after *target2*.&A main course¶an appetizer&An appetizer¶a main course&0
+t/ 63/ b/ 63/ 126/ 126: *target* is eaten before *target2*.&A main course¶an appetizer&An appetizer¶a main course&1
+s/ 64/ a/ 64/ 127/ 127: People want to eat when they are *target*.&hungry&full&0
+s/ 64/ b/ 64/ 128/ 128: People do not want to eat when they are *target*.&hungry&full&1
+s/ 65/ a/ 65/ 129/ 129: Someone who *target* someone else is a criminal.&robs&is robbed by&0
+s/ 65/ b/ 65/ 130/ 130: Someone who *target* someone else is a victim.&robs&is robbed by&1
+s/ 66/ a/ 66/ 131/ 131: *target* lies makes one credulous.&Believing&Disbelieving&0
+s/ 66/ b/ 66/ 132/ 132: *target* lies makes one skeptical.&Believing&Disbelieving&1
+s/ 67/ a/ 67/ 133/ 133: An instrument will not fit into a suitcase if the *target* is too large.&instrument&suitcase&0
+s/ 67/ b/ 67/ 134/ 134: An instrument will not fit into a suitcase if the *target* is too small.&instrument&suitcase&1
+s/ 68/ a/ 68/ 135/ 135: A crate will not contain a crowbar if the *target* is too large.&crowbar&crate&0
+s/ 68/ b/ 68/ 136/ 136: A crate will not contain a crowbar if the *target* is too small.&crowbar&crate&1
+s/ 69/ a/ 69/ 137/ 137: For a bucket to contain a crab, the *target* must be large enough.&bucket&crab&0
+s/ 69/ b/ 69/ 138/ 138: For a bucket to contain a crab, the *target* must be small enough.&bucket&crab&1
+s/ 70/ a/ 70/ 139/ 139: For a badger to fit into a cage, the *target* cannot be too large.&badger&cage&0
+s/ 70/ b/ 70/ 140/ 140: For a badger to fit into a cage, the *target* cannot be too small.&badger&cage&1
+t/ 71/ a/ 71/ 141/ 141: In order for a book to fit into a box, the *target* must be smaller than the *target2*.&book¶box&box¶book&0
+t/ 71/ b/ 71/ 142/ 142: In order for a book to fit into a box, the *target* must be larger than the *target2*.&book¶box&box¶book&1
+t/ 72/ a/ 72/ 143/ 143: A *target* will only contain a *target2* if the barrel is small enough.&box¶barrel&barrel¶box&0
+t/ 72/ b/ 72/ 144/ 144: A *target* will only contain a *target2* if the barrel is large enough.&box¶barrel&barrel¶box&1
+s/ 73/ a/ 73/ 145/ 145: A car can overtake a *target* car.&slower&faster&0
+s/ 73/ b/ 73/ 146/ 146: A car cannot overtake a *target* car.&slower&faster&1
+s/ 74/ a/ 74/ 147/ 147: A car cannot be overtaken by a *target* car.&slower&faster&0
+s/ 74/ b/ 74/ 148/ 148: A car can be overtaken by a *target* car.&slower&faster&1
+s/ 75/ a/ 75/ 149/ 149: A hovercraft can catch up to a *target* hovercraft.&slower&faster&0
+s/ 75/ b/ 75/ 150/ 150: A hovercraft cannot catch up to a *target* hovercraft.&slower&faster&1
+s/ 76/ a/ 76/ 151/ 151: A vehicle can catch up a *target* vehicle.&slower&faster&0
+s/ 76/ b/ 76/ 152/ 152: A vehicle can never catch up a *target* vehicle.&slower&faster&1
+t/ 77/ a/ 77/ 153/ 153: If a *target* is above a *target2*, the drawing is higher than the painting.&drawing¶painting&painting¶drawing&0
+t/ 77/ b/ 77/ 154/ 154: If a *target* is above a *target2*, the drawing is lower than the painting.&drawing¶painting&painting¶drawing&1
+t/ 78/ a/ 78/ 155/ 155: If a *target* is below a *target2*, the photograph is lower than the shelf.&photograph¶shelf&shelf¶photograph&0
+t/ 78/ b/ 78/ 156/ 156: If a *target* is below a *target2*, the photograph is higher than the shelf.&photograph¶shelf&shelf¶photograph&1
+t/ 79/ a/ 79/ 157/ 157: If a *target* is above a *target2*, the picture is not lower than the window.&picture¶window&window¶picture&0
+t/ 79/ b/ 79/ 158/ 158: If a *target* is above a *target2*, the picture is not higher than the window.&picture¶window&window¶picture&1
+t/ 80/ a/ 80/ 159/ 159: A window is higher than a shelf if the *target* is above the *target2*.&window¶shelf&shelf¶window&0
+t/ 80/ b/ 80/ 160/ 160: A window is lower than a shelf if the *target* is above the *target2*.&window¶shelf&shelf¶window&1
+s/ 81/ a/ 81/ 161/ 161: Pouring water *target* a bowl will fill the bowl.&into&from&0
+s/ 81/ b/ 81/ 162/ 162: Pouring water *target* a bowl will empty the bowl.&into&from&1
+s/ 82/ a/ 82/ 163/ 163: If sulfuric acid is poured *target* a beaker, that will fill up the beaker.&into&out of&0
+s/ 82/ b/ 82/ 164/ 164: If sulfuric acid is poured *target* a beaker, that will drain the beaker.&into&out of&1
+t/ 83/ a/ 83/ 165/ 165: Pouring water from a *target* to a *target2* will fill the bowl.&jug¶bowl&bowl¶jug&0
+t/ 83/ b/ 83/ 166/ 166: Pouring water from a *target* to a *target2* will drain the bowl.&jug¶bowl&bowl¶jug&1
+t/ 84/ a/ 84/ 167/ 167: If molasses is poured from a *target* into a *target2*, that will fill the spoon.&pot¶spoon&spoon¶pot&0
+t/ 84/ b/ 84/ 168/ 168: If molasses is poured from a *target* into a *target2*, that will empty the spoon.&pot¶spoon&spoon¶pot&1
+s/ 85/ a/ 85/ 169/ 169: A ball will roll off a *target* shelf on its own.&tilted&level&0
+s/ 85/ b/ 85/ 170/ 170: A ball will not roll off a *target* shelf on its own.&tilted&level&1
+s/ 86/ a/ 86/ 171/ 171: Round objects will roll off *target* surfaces on their own.&tilted&level&0
+s/ 86/ b/ 86/ 172/ 172: Round objects will not roll off *target* surfaces on their own.&tilted&level&1
+s/ 87/ a/ 87/ 173/ 173: The Atlantic Ocean is smaller than *target*.&the Pacific Ocean&the Indian Ocean&0
+s/ 87/ b/ 87/ 174/ 174: The Atlantic Ocean is larger than *target*.&the Pacific Ocean&the Indian Ocean&1
+t/ 88/ a/ 88/ 175/ 175: *target* is lesser in area than *target2*.&The Atlantic Ocean¶the Pacific Ocean&The Pacific Ocean¶the Atlantic Ocean&0
+t/ 88/ b/ 88/ 176/ 176: *target* is greater in area than *target2*.&The Atlantic Ocean¶the Pacific Ocean&The Pacific Ocean¶the Atlantic Ocean&1
+s/ 89/ a/ 89/ 177/ 177: Hudson Bay is smaller than *target*.&the Arctic Ocean&Lake Erie&0
+s/ 89/ b/ 89/ 178/ 178: Hudson Bay is larger than *target*.&the Arctic Ocean&Lake Erie&1
+t/ 90/ a/ 90/ 179/ 179: *target* is larger than *target2*.&Lake Superior¶Lake Ontario&Lake Ontario¶Lake Superior&0
+t/ 90/ b/ 90/ 180/ 180: *target* is smaller than *target2*.&Lake Superior¶Lake Ontario&Lake Ontario¶Lake Superior&1
+s/ 91/ a/ 91/ 181/ 181: Our distance to the Sun is greater than our distance to *target*.&the Moon&Neptune&0
+s/ 91/ b/ 91/ 182/ 182: Our distance to the Sun is less than our distance to *target*.&the Moon&Neptune&1
+s/ 92/ a/ 92/ 183/ 183: *target* are in decreasing order of size.&The Sun, the Earth, and the Moon&The Moon, the Earth, and the Sun&0
+s/ 92/ b/ 92/ 184/ 184: *target* are in increasing order of size.&The Sun, the Earth, and the Moon&The Moon, the Earth, and the Sun&1
+s/ 93/ a/ 93/ 185/ 185: Paris is further south than *target*.&Helsinki&Madrid&0
+s/ 93/ b/ 93/ 186/ 186: Paris is further north than *target*.&Helsinki&Madrid&1
+t/ 94/ a/ 94/ 187/ 187: *target* is further south than *target2*.&Paris¶Berlin&Berlin¶Paris&0
+t/ 94/ b/ 94/ 188/ 188: *target* is further north than *target2*.&Paris¶Berlin&Berlin¶Paris&1
+t/ 95/ a/ 95/ 189/ 189: If *target* is bigger than *target2*, then the apple is greater in volume than the orange.&an apple¶an orange&an orange¶an apple&0
+t/ 95/ b/ 95/ 190/ 190: If *target* is bigger than *target2*, then the apple is lesser in volume than the orange.&an apple¶an orange&an orange¶an apple&1
+t/ 96/ a/ 96/ 191/ 191: If *target* is heavier than *target2*, then the grapefruit weighs more than the pear.&a grapefruit¶a pear&a pear¶a grapefruit&0
+t/ 96/ b/ 96/ 192/ 192: If *target* is heavier than *target2*, then the grapefruit weighs less than the pear.&a grapefruit¶a pear&a pear¶a grapefruit&1
+s/ 97/ a/ 97/ 193/ 193: If Anna is twenty-four years old and Kate is *target* years old, then Anna is older than Kate.&twenty-two&twenty-six&0
+s/ 97/ b/ 97/ 194/ 194: If Anna is twenty-four years old and Kate is *target* years old, then Anna is younger than Kate.&twenty-two&twenty-six&1
+s/ 98/ a/ 98/ 195/ 195: If Amanda is one hundred and ten pounds and Danielle is *target* pounds, then Danielle is lighter than Amanda.&one hundred&one hundred and twenty&0
+s/ 98/ b/ 98/ 196/ 196: If Amanda is one hundred and ten pounds and Danielle is *target* pounds, then Danielle is heavier than Amanda.&one hundred&one hundred and twenty&1
+t/ 99/ a/ 99/ 197/ 197: If *target* is the son of *target2*, then Thomas is younger than Richard.&Thomas¶Richard&Richard¶Thomas&0
+t/ 99/ b/ 99/ 198/ 198: If *target* is the son of *target2*, then Thomas is older than Richard.&Thomas¶Richard&Richard¶Thomas&1
+s/100/ a/100/ 199/ 199: If John is Henry's *target*, then Henry is John's son.&father&son&0
+s/100/ b/100/ 200/ 200: If John is Henry's *target*, then Henry is John's father.&father&son&1
+t/101/ a/101/ 201/ 201: All *target* are *target2*.&weasels¶predators&predators¶weasels&0
+t/101/ b/101/ 202/ 202: Not all *target* are *target2*.&weasels¶predators&predators¶weasels&1
+t/102/ a/102/ 203/ 203: Every *target* is a *target2*.&integer¶number&number¶integer&0
+t/102/ b/102/ 204/ 204: Not every *target* is a *target2*.&integer¶number&number¶integer&1
+s/103/ a/103/ 205/ 205: Some integers are *target*.&even&fractional&0
+s/103/ b/103/ 206/ 206: No integers are *target*.&even&fractional&1
+t/104/ a/104/ 207/ 207: *target* is further north than *target2*.&Canada¶Mexico&Mexico¶Canada&0
+t/104/ b/104/ 208/ 208: *target* is further south than *target2*.&Canada¶Mexico&Mexico¶Canada&1
+t/105/ a/105/ 209/ 209: *target* is colder than *target2*.&Norway¶Senegal&Senegal¶Norway&0
+t/105/ b/105/ 210/ 210: *target* is hotter than *target2*.&Norway¶Senegal&Senegal¶Norway&1
+s/106/ a/106/ 211/ 211: Placing a magazine *target* a box can protect the magazine from rain.&in&over&0
+s/106/ b/106/ 212/ 212: Placing a magazine *target* a box can protect the box from rain.&in&over&1
+s/107/ a/107/ 213/ 213: Placing a newspaper *target* a briefcase will protect the newspaper from snow.&inside&on top of&0
+s/107/ b/107/ 214/ 214: Placing a newspaper *target* a briefcase will protect the briefcase from snow.&inside&on top of&1
+t/108/ a/108/ 215/ 215: Exchanging *target* for *target2* of equal weight will produce a profit.&silver¶gold&gold¶silver&0
+t/108/ b/108/ 216/ 216: Exchanging *target* for *target2* of equal weight will produce a loss.&silver¶gold&gold¶silver&1
+t/109/ a/109/ 217/ 217: Exchanging *target* for *target2* of equal value will save space.&copper¶platinum&platinum¶copper&0
+t/109/ b/109/ 218/ 218: Exchanging *target* for *target2* of equal value will cost space.&copper¶platinum&platinum¶copper&1
+t/110/ a/110/ 219/ 219: The *target* is closer to the Earth than the *target2* is.&Moon¶Sun&Sun¶Moon&0
+t/110/ b/110/ 220/ 220: The *target* is farther from the Earth than the *target2* is.&Moon¶Sun&Sun¶Moon&1
+s/111/ a/111/ 221/ 221: If Charles is six feet tall and Andrew is *target* feet tall, then Andrew is shorter than Charles.&five&seven&0
+s/111/ b/111/ 222/ 222: If Charles is six feet tall and Andrew is *target* feet tall, then Andrew is taller than Charles.&five&seven&1
+s/112/ a/112/ 223/ 223: If Karl is somewhat brave and Friedrich is *target* brave, then Friedrich is less brave than Karl.&not at all&very&0
+s/112/ b/112/ 224/ 224: If Karl is somewhat brave and Friedrich is *target* brave, then Friedrich is braver than Karl.&not at all&very&1
+t/113/ a/113/ 225/ 225: Anna is younger than Amanda if *target* is the mother of *target2*.&Amanda¶Anna&Anna¶Amanda&0
+t/113/ b/113/ 226/ 226: Anna is older than Amanda if *target* is the mother of *target2*.&Amanda¶Anna&Anna¶Amanda&1
+s/114/ a/114/ 227/ 227: If Danielle is Kate's *target*, then Kate is Danielle's niece.&aunt&niece&0
+s/114/ b/114/ 228/ 228: If Danielle is Kate's *target*, then Kate is Danielle's aunt.&aunt&niece&1
+s/115/ a/115/ 229/ 229: *target* are in increasing order of size.&Mice, cats, and elephants&Elephants, cats, and mice&0
+s/115/ b/115/ 230/ 230: *target* are in decreasing order of size.&Mice, cats, and elephants&Elephants, cats, and mice&1
+s/116/ a/116/ 231/ 231: *target* are in increasing order of density.&Air, water, and cadmium&Cadmium, water, and air&0
+s/116/ b/116/ 232/ 232: *target* are in decreasing order of density.&Air, water, and cadmium&Cadmium, water, and air&1
+t/117/ a/117/ 233/ 233: If *target* is smaller than *target2*, then the plum has less volume than the peach.&a plum¶a peach&a peach¶a plum&0
+t/117/ b/117/ 234/ 234: If *target* is smaller than *target2*, then the plum has more volume than the peach.&a plum¶a peach&a peach¶a plum&1
+t/118/ a/118/ 235/ 235: If *target* is lighter than *target2*, then the melon is lesser in weight than the pineapple.&a melon¶a pineapple&a pineapple¶a melon&0
+t/118/ b/118/ 236/ 236: If *target* is lighter than *target2*, then the melon is greater in weight than the pineapple.&a melon¶a pineapple&a pineapple¶a melon&1
+s/119/ a/119/ 237/ 237: People normally *target* at night.&go to sleep&wake up&0
+s/119/ b/119/ 238/ 238: People normally *target* in the morning.&go to sleep&wake up&1
+s/120/ a/120/ 239/ 239: If you can see the *target*, it is probably daytime.&sun&stars&0
+s/120/ b/120/ 240/ 240: If you can see the *target*, it is probably nighttime.&sun&stars&1
+s/121/ a/121/ 241/ 241: A couch will not fit through a doorway if the couch is too *target*.&wide&narrow&0
+s/121/ b/121/ 242/ 242: A couch will not fit through a doorway if the doorway is too *target*.&wide&narrow&1
+s/122/ a/122/ 243/ 243: A truck will not pass under a bridge if the truck is too *target*.&tall&low&0
+s/122/ b/122/ 244/ 244: A truck will not pass under a bridge if the bridge is too *target*.&tall&low&1
+s/123/ a/123/ 245/ 245: If I had six grapes and I gave you four, then *target* have two grapes.&I&you&0
+s/123/ b/123/ 246/ 246: If I had six grapes and I gave you four, then *target* have four grapes.&I&you&1
+t/124/ a/124/ 247/ 247: *target* follows *target2*.&Winter¶autumn&Autumn¶winter&0
+t/124/ b/124/ 248/ 248: *target* is followed by *target2*.&Winter¶autumn&Autumn¶winter&1
+t/125/ a/125/ 249/ 249: *target* comes after *target2*.&October¶August&August¶October&0
+t/125/ b/125/ 250/ 250: *target* comes before *target2*.&October¶August&August¶October&1

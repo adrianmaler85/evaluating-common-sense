@@ -1,0 +1,52 @@
+schema type: Winograd; dataset name: wsc266; perturbation: associative; baseline: no baseline
+by answer
+w/  1/ a/ 27/   1/  53: The painting in Mark's living room shows an oak tree. *target* is to the right of the bookcase.&The painting&The oak tree&0
+w/  1/ b/ 27/   2/  54: The painting in Mark's living room shows an oak tree. *target* is to the right of a house.&The painting&The oak tree&1
+w/  2/ a/ 28/   3/  55: There is a gap in the wall. You can see the garden through *target*.&the gap&the wall&0
+w/  2/ b/ 28/   4/  56: There is a gap in the wall. You can see the garden behind *target*.&the gap&the wall&1
+w/  3/ a/ 30/   5/  59: My meeting started at 4:00 and I needed to catch the train at 4:30, so there wasn't much time. Luckily, *target* was short, so it worked out.&the meeting&the train&0
+w/  3/ b/ 30/   6/  60: My meeting started at 4:00 and I needed to catch the train at 4:30, so there wasn't much time. Luckily, *target* was delayed, so it worked out.&the meeting&the train&1
+w/  4/ a/ 37/   7/  73: I couldn't put the pot on the shelf because *target* was too tall.&the pot&the shelf&0
+w/  4/ b/ 37/   8/  74: I couldn't put the pot on the shelf because *target* was too high.&the pot&the shelf&1
+w/  5/ a/ 38/   9/  75: I'm sure that my map will show this building; *target* is very good.&the map&the building&0
+w/  5/ b/ 38/  10/  76: I'm sure that my map will show this building; *target* is very famous.&the map&the building&1
+w/  6/ a/ 44/  11/  87: It was a summer afternoon, and the dog was sitting in the middle of the lawn. After a while, it got up and moved to a spot under the tree, because *target* was hot.&the dog&the spot under the tree&0
+w/  6/ b/ 44/  12/  88: It was a summer afternoon, and the dog was sitting in the middle of the lawn. After a while, it got up and moved to a spot under the tree, because *target* was cooler.&the dog&the spot under the tree&1
+w/  7/ a/ 50/  13/  99: I was trying to open the lock with the key, but someone had filled the keyhole with chewing gum, and I couldn't get *target* in.&the key&the chewing gum&0
+w/  7/ b/ 50/  14/ 100: I was trying to open the lock with the key, but someone had filled the keyhole with chewing gum, and I couldn't get *target* out.&the key&the chewing gum&1
+w/  8/ a/ 52/  15/ 103: In the storm, the tree fell down and crashed through the roof of my house. Now, I have to get *target* removed.&the tree&the roof&0
+w/  8/ b/ 52/  16/ 104: In the storm, the tree fell down and crashed through the roof of my house. Now, I have to get *target* repaired.&the tree&the roof&1
+w/  9/ a/ 55/  17/ 109: John was jogging through the park when he saw a man juggling watermelons. *target* was very impressed.&John&The juggler&0
+w/  9/ b/ 55/  18/ 110: John was jogging through the park when he saw a man juggling watermelons. *target* was very impressive.&John&The juggler&1
+w/ 10/ a/ 57/  19/ 113: Sam and Amy are passionately in love, but Amy's parents are unhappy about it, because *target* are fifteen.&Sam and Amy&Amy's parents&0
+w/ 10/ b/ 57/  20/ 114: Sam and Amy are passionately in love, but Amy's parents are unhappy about it, because *target* are snobs.&Sam and Amy&Amy's parents&1
+w/ 11/ a/ 59/  21/ 117: Joe has sold his house and bought a new one a few miles away. He will be moving out of *target* on Thursday.&the old house&the new house&0
+w/ 11/ b/ 59/  22/ 118: Joe has sold his house and bought a new one a few miles away. He will be moving into *target* on Thursday.&the old house&the new house&1
+w/ 12/ a/ 60/  23/ 119: Many people start to read Paul's books and can't put them down. *target* are gripped because Paul writes so well.&People&Paul's books&0
+w/ 12/ b/ 60/  24/ 120: Many people start to read Paul's books and can't put them down. *target* are popular because Paul writes so well.&People&Paul's books&1
+w/ 13/ a/ 61/  25/ 121: Mary took out her flute and played one of her favorite pieces. She has had *target* since she was a child.&the flute&the piece&0
+w/ 13/ b/ 61/  26/ 122: Mary took out her flute and played one of her favorite pieces. She has loved *target* since she was a child.&the flute&the piece&1
+w/ 14/ a/ 69/  27/ 137: The path to the lake was blocked, so we couldn't use *target*.&the path&the lake&0
+w/ 14/ b/ 69/  28/ 138: The path to the lake was blocked, so we couldn't reach *target*.&the path&the lake&1
+w/ 15/ a/ 70/  29/ 139: The sun was covered by a thick cloud all morning, but luckily, by the time the picnic started, *target* was out.&the sun&the cloud&0
+w/ 15/ b/ 70/  30/ 140: The sun was covered by a thick cloud all morning, but luckily, by the time the picnic started, *target* was gone.&the sun&the cloud&1
+w/ 16/ a/ 74/  31/ 147: Fred and Alice had very warm down coats, but *target* were not prepared for the cold in Alaska.&Fred and Alice&the coats&0
+w/ 16/ b/ 74/  32/ 148: Fred and Alice had very warm down coats, but *target* were not enough for the cold in Alaska.&Fred and Alice&the coats&1
+w/ 17/ a/ 78/  33/ 155: The foxes are getting in at night and attacking the chickens. I shall have to kill *target*.&the foxes&the chickens&0
+w/ 17/ b/ 78/  34/ 156: The foxes are getting in at night and attacking the chickens. I shall have to guard *target*.&the foxes&the chickens&1
+w/ 18/ a/ 80/  35/ 159: Fred covered his eyes with his hands, because the wind was blowing sand around. He opened *target* when the wind stopped.&his eyes&his hands&0
+w/ 18/ b/ 80/  36/ 160: Fred covered his eyes with his hands, because the wind was blowing sand around. He lowered *target* when the wind stopped.&his eyes&his hands&1
+w/ 19/ a/ 87/  37/ 173: Archaeologists have concluded that humans lived in Laputa 20,000 years ago. *target* hunted for evidence on the river banks.&Archaeologists&Prehistoric humans&0
+w/ 19/ b/ 87/  38/ 174: Archaeologists have concluded that humans lived in Laputa 20,000 years ago. *target* hunted for deer on the river banks.&Archaeologists&Prehistoric humans&1
+w/ 20/ a/ 88/  39/ 175: The scientists are studying three species of fish that have recently been found living in the Indian Ocean. *target* began two years ago.&The scientists&The fish&0
+w/ 20/ b/ 88/  40/ 176: The scientists are studying three species of fish that have recently been found living in the Indian Ocean. *target* appeared two years ago.&The scientists&The fish&1
+w/ 21/ a/ 90/  41/ 179: The police arrested all of the gang members. *target* were trying to stop the drug trade in the neighborhood.&The police&The gang members&0
+w/ 21/ b/ 90/  42/ 180: The police arrested all of the gang members. *target* were trying to run the drug trade in the neighborhood.&The police&The gang members&1
+w/ 22/ a/ 91/  43/ 181: I put the cake away in the refrigerator. *target* has a lot of butter in it.&The cake&The refrigerator&0
+w/ 22/ b/ 91/  44/ 182: I put the cake away in the refrigerator. *target* has a lot of leftovers in it.&The cake&The refrigerator&1
+w/ 23/ a/ 92/  45/ 183: Sam broke both his ankles and he's walking with crutches. But a month or so from now *target* should be better.&the ankles&the crutches&0
+w/ 23/ b/ 92/  46/ 184: Sam broke both his ankles and he's walking with crutches. But a month or so from now *target* should be unnecessary.&the ankles&the crutches&1
+w/ 24/ a/ 96/  47/ 191: I stuck a pin through a carrot. When I pulled the pin out, *target* left a hole.&the pin&the carrot&0
+w/ 24/ b/ 96/  48/ 192: I stuck a pin through a carrot. When I pulled the pin out, *target* had a hole.&the pin&the carrot&1
+w/ 25/ a/115/  49/ 229: The man lifted the boy onto *target* shoulders.&the man's&the boy's&0
+w/ 25/ b/115/  50/ 230: The man lifted the boy onto *target* bunk bed.&the man's&the boy's&1

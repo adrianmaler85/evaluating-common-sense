@@ -1,0 +1,268 @@
+schema type: Winograd; dataset name: wsc266; perturbation: original; baseline: no baseline
+by answer
+w/  1/ a/  1/   1/   1: The city councilmen refused the demonstrators a permit because *target* feared violence.&the city councilmen&the demonstrators&0
+w/  1/ b/  1/   2/   2: The city councilmen refused the demonstrators a permit because *target* advocated violence.&the city councilmen&the demonstrators&1
+w/  2/ a/  2/   3/   3: The trophy doesn't fit into the brown suitcase because *target* is too large.&the trophy&the suitcase&0
+w/  2/ b/  2/   4/   4: The trophy doesn't fit into the brown suitcase because *target* is too small.&the trophy&the suitcase&1
+w/  3/ a/  3/   5/   5: Joan made sure to thank Susan for all the help *target* had received.&Joan&Susan&0
+w/  3/ b/  3/   6/   6: Joan made sure to thank Susan for all the help *target* had given.&Joan&Susan&1
+w/  4/ a/  4/   7/   7: Paul tried to call George on the phone, but *target* wasn't successful.&Paul&George&0
+w/  4/ b/  4/   8/   8: Paul tried to call George on the phone, but *target* wasn't available.&Paul&George&1
+w/  5/ a/  5/   9/   9: The lawyer asked the witness a question, but *target* was reluctant to repeat it.&the lawyer&the witness&0
+w/  5/ b/  5/  10/  10: The lawyer asked the witness a question, but *target* was reluctant to answer it.&the lawyer&the witness&1
+w/  6/ a/  6/  11/  11: The delivery truck zoomed by the school bus because *target* was going so fast.&the delivery truck&the school bus&0
+w/  6/ b/  6/  12/  12: The delivery truck zoomed by the school bus because *target* was going so slow.&the delivery truck&the school bus&1
+w/  7/ a/  7/  13/  13: Frank felt vindicated when his longtime rival Bill revealed that *target* was the winner of the competition.&Frank&Bill&0
+w/  7/ b/  7/  14/  14: Frank felt crushed when his longtime rival Bill revealed that *target* was the winner of the competition.&Frank&Bill&1
+w/  8/ a/  8/  15/  15: The man couldn't lift his son because *target* was so weak.&the man&the son&0
+w/  8/ b/  8/  16/  16: The man couldn't lift his son because *target* was so heavy.&the man&the son&1
+w/  9/ a/  9/  17/  17: The large ball crashed right through the table because *target* was made of steel.&the large ball&the table&0
+w/  9/ b/  9/  18/  18: The large ball crashed right through the table because *target* was made of styrofoam.&the large ball&the table&1
+w/ 10/ a/ 10/  19/  19: John couldn't see the stage with Billy in front of him because *target* is so short.&John&Billy&0
+w/ 10/ b/ 10/  20/  20: John couldn't see the stage with Billy in front of him because *target* is so tall.&John&Billy&1
+w/ 11/ a/ 11/  21/  21: Tom threw his schoolbag down to Ray after *target* reached the top of the stairs.&Tom&Ray&0
+w/ 11/ b/ 11/  22/  22: Tom threw his schoolbag down to Ray after *target* reached the bottom of the stairs.&Tom&Ray&1
+w/ 12/ a/ 12/  23/  23: Although they ran at about the same speed, Sue beat Sally because *target* had such a good start.&Sue&Sally&0
+w/ 12/ b/ 12/  24/  24: Although they ran at about the same speed, Sue beat Sally because *target* had such a bad start.&Sue&Sally&1
+w/ 13/ a/ 13/  25/  25: The sculpture rolled off the shelf because *target* wasn't anchored.&the sculpture&the shelf&0
+w/ 13/ b/ 13/  26/  26: The sculpture rolled off the shelf because *target* wasn't level.&the sculpture&the shelf&1
+w/ 14/ a/ 14/  27/  27: Sam's drawing was hung just above Tina's and *target* did look much better with another one below it.&Sam's drawing&Tina's drawing&0
+w/ 14/ b/ 14/  28/  28: Sam's drawing was hung just above Tina's and *target* did look much better with another one above it.&Sam's drawing&Tina's drawing&1
+w/ 15/ a/ 15/  29/  29: Anna did a lot better than her good friend Lucy on the test because *target* had studied so hard.&Anna&Lucy&0
+w/ 15/ b/ 15/  30/  30: Anna did a lot worse than her good friend Lucy on the test because *target* had studied so hard.&Anna&Lucy&1
+w/ 16/ a/ 16/  31/  31: The firemen arrived after the police because *target* were coming from so far away.&the firemen&the police&0
+w/ 16/ b/ 16/  32/  32: The firemen arrived before the police because *target* were coming from so far away.&the firemen&the police&1
+w/ 17/ a/ 17/  33/  33: Frank was upset with Tom because the toaster *target* had bought from him didn't work.&Frank&Tom&0
+w/ 17/ b/ 17/  34/  34: Frank was upset with Tom because the toaster *target* had sold him didn't work.&Frank&Tom&1
+w/ 18/ a/ 18/  35/  35: Jim yelled at Kevin because *target* was so upset.&Jim&Kevin&0
+w/ 18/ b/ 18/  36/  36: Jim comforted Kevin because *target* was so upset.&Jim&Kevin&1
+w/ 19/ a/ 19/  37/  37: The sack of potatoes had been placed above the bag of flour, so *target* had to be moved first.&the sack of potatoes&the bag of flour&0
+w/ 19/ b/ 19/  38/  38: The sack of potatoes had been placed below the bag of flour, so *target* had to be moved first.&the sack of potatoes&the bag of flour&1
+w/ 20/ a/ 20/  39/  39: Pete envies Martin although *target* is very successful.&Pete&Martin&0
+w/ 20/ b/ 20/  40/  40: Pete envies Martin because *target* is very successful.&Pete&Martin&1
+w/ 21/ a/ 21/  41/  41: The older students were bullying the younger ones, so we punished *target*.&the older students&the younger students&0
+w/ 21/ b/ 21/  42/  42: The older students were bullying the younger ones, so we rescued *target*.&the older students&the younger students&1
+w/ 22/ a/ 22/  43/  43: I poured water from the bottle into the cup until *target* was empty.&the bottle&the cup&0
+w/ 22/ b/ 22/  44/  44: I poured water from the bottle into the cup until *target* was full.&the bottle&the cup&1
+w/ 23/ a/ 23/  45/  45: Susan knows all about Ann's personal problems because *target* is nosy.&Susan&Ann&0
+w/ 23/ b/ 23/  46/  46: Susan knows all about Ann's personal problems because *target* is indiscreet.&Susan&Ann&1
+w/ 24/ a/ 24/  47/  47: Sid explained his theory to Mark but *target* couldn't convince him.&Sid&Mark&0
+w/ 24/ b/ 24/  48/  48: Sid explained his theory to Mark but *target* couldn't understand him.&Sid&Mark&1
+w/ 25/ a/ 25/  49/  49: Susan knew that Ann's son had been in a car accident, so *target* told her about it.&Susan&Ann&0
+w/ 25/ b/ 25/  50/  50: Susan knew that Ann's son had been in a car accident, because *target* told her about it.&Susan&Ann&1
+w/ 26/ a/ 26/  51/  51: Joe's uncle can still beat Joe at tennis, even though *target* is 30 years older.&Joe's uncle&Joe&0
+w/ 26/ b/ 26/  52/  52: Joe's uncle can still beat Joe at tennis, even though *target* is 30 years younger.&Joe's uncle&Joe&1
+w/ 27/ a/ 27/  53/  53: The painting in Mark's living room shows an oak tree. *target* is to the right of the bookcase.&The painting&The oak tree&0
+w/ 27/ b/ 27/  54/  54: The painting in Mark's living room shows an oak tree. *target* is to the right of a house.&The painting&The oak tree&1
+w/ 28/ a/ 28/  55/  55: There is a gap in the wall. You can see the garden through *target*.&the gap&the wall&0
+w/ 28/ b/ 28/  56/  56: There is a gap in the wall. You can see the garden behind *target*.&the gap&the wall&1
+w/ 29/ a/ 29/  57/  57: The drain is clogged with hair. *target* has to be cleaned.&The drain&The hair&0
+w/ 29/ b/ 29/  58/  58: The drain is clogged with hair. *target* has to be removed.&The drain&The hair&1
+w/ 30/ a/ 30/  59/  59: My meeting started at 4:00 and I needed to catch the train at 4:30, so there wasn't much time. Luckily, *target* was short, so it worked out.&the meeting&the train&0
+w/ 30/ b/ 30/  60/  60: My meeting started at 4:00 and I needed to catch the train at 4:30, so there wasn't much time. Luckily, *target* was delayed, so it worked out.&the meeting&the train&1
+w/ 31/ a/ 31/  61/  61: There is a pillar between me and the stage, and I can't see around *target*.&the pillar&the stage&0
+w/ 31/ b/ 31/  62/  62: There is a pillar between me and the stage, and I can't see *target*.&the pillar&the stage&1
+w/ 32/ a/ 32/  63/  63: They broadcast an announcement, but a subway came into the station and I couldn't hear *target*.&the announcement&the subway&0
+w/ 32/ b/ 32/  64/  64: They broadcast an announcement, but a subway came into the station and I couldn't hear over *target*.&the announcement&the subway&1
+w/ 33/ a/ 33/  65/  65: In the middle of the outdoor concert, the rain started falling, but *target* continued until 10.&the concert&the rain&0
+w/ 33/ b/ 33/  66/  66: In the middle of the outdoor concert, the rain started falling, and *target* continued until 10.&the concert&the rain&1
+w/ 34/ a/ 34/  67/  67: I used an old rag to clean the knife, and then I put *target* in the trash.&the rag&the knife&0
+w/ 34/ b/ 34/  68/  68: I used an old rag to clean the knife, and then I put *target* in the drawer.&the rag&the knife&1
+w/ 35/ a/ 35/  69/  69: Ann asked Mary what time the library closes, because *target* had forgotten.&Ann&Mary&0
+w/ 35/ b/ 35/  70/  70: Ann asked Mary what time the library closes, but *target* had forgotten.&Ann&Mary&1
+w/ 36/ a/ 36/  71/  71: I took the water bottle out of the backpack so that *target* would be handy.&the water bottle&the backpack&0
+w/ 36/ b/ 36/  72/  72: I took the water bottle out of the backpack so that *target* would be lighter.&the water bottle&the backpack&1
+w/ 37/ a/ 37/  73/  73: I couldn't put the pot on the shelf because *target* was too tall.&the pot&the shelf&0
+w/ 37/ b/ 37/  74/  74: I couldn't put the pot on the shelf because *target* was too high.&the pot&the shelf&1
+w/ 38/ a/ 38/  75/  75: I'm sure that my map will show this building; *target* is very good.&the map&the building&0
+w/ 38/ b/ 38/  76/  76: I'm sure that my map will show this building; *target* is very famous.&the map&the building&1
+w/ 39/ a/ 39/  77/  77: Bob paid for Charlie's college education. *target* is very generous.&Bob&Charlie&0
+w/ 39/ b/ 39/  78/  78: Bob paid for Charlie's college education. *target* is very grateful.&Bob&Charlie&1
+w/ 40/ a/ 40/  79/  79: Bob paid for Charlie's college education, but now Charlie acts as though it never happened. *target* is very hurt.&Bob&Charlie&0
+w/ 40/ b/ 40/  80/  80: Bob paid for Charlie's college education, but now Charlie acts as though it never happened. *target* is very ungrateful.&Bob&Charlie&1
+w/ 41/ a/ 41/  81/  81: Bob was playing cards with Adam and was way ahead. If Adam hadn't had a sudden run of good luck, *target* would have won.&Bob&Adam&0
+w/ 41/ b/ 41/  82/  82: Bob was playing cards with Adam and was way ahead. If Adam hadn't had a sudden run of good luck, *target* would have lost.&Bob&Adam&1
+w/ 42/ a/ 42/  83/  83: Adam can't leave work here until Bob arrives to replace him. If Bob had left home for work on time, *target* would be gone by this time.&Adam&Bob&0
+w/ 42/ b/ 42/  84/  84: Adam can't leave work here until Bob arrives to replace him. If Bob had left home for work on time, *target* would be here by this time.&Adam&Bob&1
+w/ 43/ a/ 43/  85/  85: If the con artist has succeeded in fooling Sam, *target* would have gotten a lot of money.&the con artist&Sam&0
+w/ 43/ b/ 43/  86/  86: If the con artist has succeeded in fooling Sam, *target* would have lost a lot of money.&the con artist&Sam&1
+w/ 44/ a/ 44/  87/  87: It was a summer afternoon, and the dog was sitting in the middle of the lawn. After a while, it got up and moved to a spot under the tree, because *target* was hot.&the dog&the spot under the tree&0
+w/ 44/ b/ 44/  88/  88: It was a summer afternoon, and the dog was sitting in the middle of the lawn. After a while, it got up and moved to a spot under the tree, because *target* was cooler.&the dog&the spot under the tree&1
+w/ 45/ a/ 45/  89/  89: The cat was lying by the mouse hole waiting for the mouse, but *target* was too impatient.&the cat&the mouse&0
+w/ 45/ b/ 45/  90/  90: The cat was lying by the mouse hole waiting for the mouse, but *target* was too cautious.&the cat&the mouse&1
+w/ 46/ a/ 46/  91/  91: Anne gave birth to a daughter last month. *target* is a very charming woman.&Anne&Anne's daughter&0
+w/ 46/ b/ 46/  92/  92: Anne gave birth to a daughter last month. *target* is a very charming baby.&Anne&Anne's daughter&1
+w/ 47/ a/ 47/  93/  93: Alice tried frantically to stop her daughter from chatting at the party, leaving us to wonder why *target* was behaving so strangely.&Alice&Alice's daughter&0
+w/ 47/ b/ 47/  94/  94: Alice tried frantically to stop her daughter from barking at the party, leaving us to wonder why *target* was behaving so strangely.&Alice&Alice's daughter&1
+w/ 48/ a/ 48/  95/  95: I saw Jim yelling at some guy in a military uniform with a huge red beard. I don't know why *target* was, but he looked very unhappy.&Jim&the guy in uniform&0
+w/ 48/ b/ 48/  96/  96: I saw Jim yelling at some guy in a military uniform with a huge red beard. I don't know who *target* was, but he looked very unhappy.&Jim&the guy in uniform&1
+w/ 49/ a/ 49/  97/  97: The fish ate the worm. *target* was hungry.&The fish&The worm&0
+w/ 49/ b/ 49/  98/  98: The fish ate the worm. *target* was tasty.&The fish&The worm&1
+w/ 50/ a/ 50/  99/  99: I was trying to open the lock with the key, but someone had filled the keyhole with chewing gum, and I couldn't get *target* in.&the key&the chewing gum&0
+w/ 50/ b/ 50/ 100/ 100: I was trying to open the lock with the key, but someone had filled the keyhole with chewing gum, and I couldn't get *target* out.&the key&the chewing gum&1
+w/ 51/ a/ 51/ 101/ 101: The dog chased the cat, which ran up a tree. *target* waited at the bottom.&The dog&The cat&0
+w/ 51/ b/ 51/ 102/ 102: The dog chased the cat, which ran up a tree. *target* waited at the top.&The dog&The cat&1
+w/ 52/ a/ 52/ 103/ 103: In the storm, the tree fell down and crashed through the roof of my house. Now, I have to get *target* removed.&the tree&the roof&0
+w/ 52/ b/ 52/ 104/ 104: In the storm, the tree fell down and crashed through the roof of my house. Now, I have to get *target* repaired.&the tree&the roof&1
+w/ 53/ a/ 53/ 105/ 105: The customer walked into the bank and stabbed one of the tellers. *target* was immediately taken to the police station.&The customer&The teller&0
+w/ 53/ b/ 53/ 106/ 106: The customer walked into the bank and stabbed one of the tellers. *target* was immediately taken to the hospital.&The customer&The teller&1
+w/ 54/ a/ 54/ 107/ 107: John was doing research in the library when he heard a man humming and whistling. *target* was very annoyed.&John&The man&0
+w/ 54/ b/ 54/ 108/ 108: John was doing research in the library when he heard a man humming and whistling. *target* was very annoying.&John&The man&1
+w/ 55/ a/ 55/ 109/ 109: John was jogging through the park when he saw a man juggling watermelons. *target* was very impressed.&John&The juggler&0
+w/ 55/ b/ 55/ 110/ 110: John was jogging through the park when he saw a man juggling watermelons. *target* was very impressive.&John&The juggler&1
+w/ 56/ a/ 56/ 111/ 111: Bob collapsed on the sidewalk. Soon he saw Carl coming to help. *target* was very ill.&Bob&Carl&0
+w/ 56/ b/ 56/ 112/ 112: Bob collapsed on the sidewalk. Soon he saw Carl coming to help. *target* was very concerned.&Bob&Carl&1
+w/ 57/ a/ 57/ 113/ 113: Sam and Amy are passionately in love, but Amy's parents are unhappy about it, because *target* are fifteen.&Sam and Amy&Amy's parents&0
+w/ 57/ b/ 57/ 114/ 114: Sam and Amy are passionately in love, but Amy's parents are unhappy about it, because *target* are snobs.&Sam and Amy&Amy's parents&1
+w/ 58/ a/ 58/ 115/ 115: Mark told Pete many lies about himself, which Pete included in his book. *target* should have been more truthful.&Mark&Pete&0
+w/ 58/ b/ 58/ 116/ 116: Mark told Pete many lies about himself, which Pete included in his book. *target* should have been more skeptical.&Mark&Pete&1
+w/ 59/ a/ 59/ 117/ 117: Joe has sold his house and bought a new one a few miles away. He will be moving out of *target* on Thursday.&the old house&the new house&0
+w/ 59/ b/ 59/ 118/ 118: Joe has sold his house and bought a new one a few miles away. He will be moving into *target* on Thursday.&the old house&the new house&1
+w/ 60/ a/ 60/ 119/ 119: Many people start to read Paul's books and can't put them down. *target* are gripped because Paul writes so well.&People&Paul's books&0
+w/ 60/ b/ 60/ 120/ 120: Many people start to read Paul's books and can't put them down. *target* are popular because Paul writes so well.&People&Paul's books&1
+w/ 61/ a/ 61/ 121/ 121: Mary took out her flute and played one of her favorite pieces. She has had *target* since she was a child.&the flute&the piece&0
+w/ 61/ b/ 61/ 122/ 122: Mary took out her flute and played one of her favorite pieces. She has loved *target* since she was a child.&the flute&the piece&1
+w/ 62/ a/ 62/ 123/ 123: Sam pulled up a chair to the piano, but *target* was broken, so he had to stand instead.&the chair&the piano&0
+w/ 62/ b/ 62/ 124/ 124: Sam pulled up a chair to the piano, but *target* was broken, so he had to sing instead.&the chair&the piano&1
+w/ 63/ a/ 63/ 125/ 125: Since it was raining, I carried the newspaper in my backpack to keep *target* dry.&the newspaper&the backpack&0
+w/ 63/ b/ 63/ 126/ 126: Since it was raining, I carried the newspaper over my backpack to keep *target* dry.&the newspaper&the backpack&1
+w/ 64/ a/ 64/ 127/ 127: Sara borrowed the book from the library because she needs it for an article she is working on. She reads *target* when she gets home from work.&the book&the article&0
+w/ 64/ b/ 64/ 128/ 128: Sara borrowed the book from the library because she needs it for an article she is working on. She writes *target* when she gets home from work.&the book&the article&1
+w/ 65/ a/ 65/ 129/ 129: This morning, Joey built a sand castle on the beach, and put a toy flag in the highest tower, but this afternoon the tide knocked *target* down.&the sand castle&the flag&0
+w/ 65/ b/ 65/ 130/ 130: This morning, Joey built a sand castle on the beach, and put a toy flag in the highest tower, but this afternoon the wind knocked *target* down.&the sand castle&the flag&1
+w/ 66/ a/ 66/ 131/ 131: Jane knocked on Susan's door, but there was no answer. *target* was disappointed.&Jane&Susan&0
+w/ 66/ b/ 66/ 132/ 132: Jane knocked on Susan's door, but there was no answer. *target* was out.&Jane&Susan&1
+w/ 67/ a/ 67/ 133/ 133: Jane knocked on the door, and Susan answered it. *target* invited her to come out.&Jane&Susan&0
+w/ 67/ b/ 67/ 134/ 134: Jane knocked on the door, and Susan answered it. *target* invited her to come in.&Jane&Susan&1
+w/ 68/ a/ 68/ 135/ 135: Sam took French classes from Adam, because *target* was eager to speak it fluently.&Sam&Adam&0
+w/ 68/ b/ 68/ 136/ 136: Sam took French classes from Adam, because *target* was known to speak it fluently.&Sam&Adam&1
+w/ 69/ a/ 69/ 137/ 137: The path to the lake was blocked, so we couldn't use *target*.&the path&the lake&0
+w/ 69/ b/ 69/ 138/ 138: The path to the lake was blocked, so we couldn't reach *target*.&the path&the lake&1
+w/ 70/ a/ 70/ 139/ 139: The sun was covered by a thick cloud all morning, but luckily, by the time the picnic started, *target* was out.&the sun&the cloud&0
+w/ 70/ b/ 70/ 140/ 140: The sun was covered by a thick cloud all morning, but luckily, by the time the picnic started, *target* was gone.&the sun&the cloud&1
+w/ 71/ a/ 71/ 141/ 141: We went to the lake, because a shark had been seen at the ocean beach, so *target* was a safer place to swim.&the lake&the ocean beach&0
+w/ 71/ b/ 71/ 142/ 142: We went to the lake, because a shark had been seen at the ocean beach, so *target* was a dangerous place to swim.&the lake&the ocean beach&1
+w/ 72/ a/ 72/ 143/ 143: Sam tried to paint a picture of shepherds with sheep, but *target* ended up looking more like golfers.&the shepherds&the sheep&0
+w/ 72/ b/ 72/ 144/ 144: Sam tried to paint a picture of shepherds with sheep, but *target* ended up looking more like dogs.&the shepherds&the sheep&1
+w/ 73/ a/ 73/ 145/ 145: Mary tucked her daughter Anne into bed, so that *target* could work.&Mary&Mary's daughter&0
+w/ 73/ b/ 73/ 146/ 146: Mary tucked her daughter Anne into bed, so that *target* could sleep.&Mary&Mary's daughter&1
+w/ 74/ a/ 74/ 147/ 147: Fred and Alice had very warm down coats, but *target* were not prepared for the cold in Alaska.&Fred and Alice&the coats&0
+w/ 74/ b/ 74/ 148/ 148: Fred and Alice had very warm down coats, but *target* were not enough for the cold in Alaska.&Fred and Alice&the coats&1
+w/ 75/ a/ 75/ 149/ 149: Thomson visited Cooper's grave in 1765. At that date *target* had been travelling for five years.&Thomson&Cooper&0
+w/ 75/ b/ 75/ 150/ 150: Thomson visited Cooper's grave in 1765. At that date *target* had been dead for five years.&Thomson&Cooper&1
+w/ 76/ a/ 76/ 151/ 151: Jackson was greatly influenced by Arnold, though *target* lived two centuries later.&Jackson&Arnold&0
+w/ 76/ b/ 76/ 152/ 152: Jackson was greatly influenced by Arnold, though *target* lived two centuries earlier.&Jackson&Arnold&1
+w/ 77/ a/ 77/ 153/ 153: I can't cut that tree down with that axe; *target* is too thick.&the tree&the axe&0
+w/ 77/ b/ 77/ 154/ 154: I can't cut that tree down with that axe; *target* is too small.&the tree&the axe&1
+w/ 78/ a/ 78/ 155/ 155: The foxes are getting in at night and attacking the chickens. I shall have to kill *target*.&the foxes&the chickens&0
+w/ 78/ b/ 78/ 156/ 156: The foxes are getting in at night and attacking the chickens. I shall have to guard *target*.&the foxes&the chickens&1
+w/ 79/ a/ 79/ 157/ 157: The foxes are getting in at night and attacking the chickens. *target* have gotten very bold.&The foxes&The chickens&0
+w/ 79/ b/ 79/ 158/ 158: The foxes are getting in at night and attacking the chickens. *target* have gotten very nervous.&The foxes&The chickens&1
+w/ 80/ a/ 80/ 159/ 159: Fred covered his eyes with his hands, because the wind was blowing sand around. He opened *target* when the wind stopped.&his eyes&his hands&0
+w/ 80/ b/ 80/ 160/ 160: Fred covered his eyes with his hands, because the wind was blowing sand around. He lowered *target* when the wind stopped.&his eyes&his hands&1
+w/ 81/ a/ 81/ 161/ 161: The actress used to be named Terpsichore, but she changed it to Tina a few years ago, because she figured *target* was too hard to pronounce.&Terpsichore&Tina&0
+w/ 81/ b/ 81/ 162/ 162: The actress used to be named Terpsichore, but she changed it to Tina a few years ago, because she figured *target* was easier to pronounce.&Terpsichore&Tina&1
+w/ 82/ a/ 82/ 163/ 163: Fred watched TV while George went out to buy groceries. After an hour *target* got up.&Fred&George&0
+w/ 82/ b/ 82/ 164/ 164: Fred watched TV while George went out to buy groceries. After an hour *target* got back.&Fred&George&1
+w/ 83/ a/ 83/ 165/ 165: Fred was supposed to run the dishwasher, but he put it off, because he wanted to watch TV. But the show turned out to be boring, so he changed his mind and turned *target* on.&the dishwasher&the TV&0
+w/ 83/ b/ 83/ 166/ 166: Fred was supposed to run the dishwasher, but he put it off, because he wanted to watch TV. But the show turned out to be boring, so he changed his mind and turned *target* off.&the dishwasher&the TV&1
+w/ 84/ a/ 84/ 167/ 167: Fred is the only man still alive who remembers my great-grandfather. *target* is a remarkable man.&Fred&My great-grandfather&0
+w/ 84/ b/ 84/ 168/ 168: Fred is the only man still alive who remembers my great-grandfather. *target* was a remarkable man.&Fred&My great-grandfather&1
+w/ 85/ a/ 85/ 169/ 169: Fred is the only man alive who still remembers my father as an infant. When Fred first saw my father, *target* was twelve years old.&Fred&my father&0
+w/ 85/ b/ 85/ 170/ 170: Fred is the only man alive who still remembers my father as an infant. When Fred first saw my father, *target* was twelve months old.&Fred&my father&1
+w/ 86/ a/ 86/ 171/ 171: In July, Kamchatka declared war on Yakutsk. Since Yakutsk's army was much better equipped and ten times larger, *target* were defeated within weeks.&Kamchatka&Yakutsk&0
+w/ 86/ b/ 86/ 172/ 172: In July, Kamchatka declared war on Yakutsk. Since Yakutsk's army was much better equipped and ten times larger, *target* were victorious within weeks.&Kamchatka&Yakutsk&1
+w/ 87/ a/ 87/ 173/ 173: Archaeologists have concluded that humans lived in Laputa 20,000 years ago. *target* hunted for evidence on the river banks.&Archaeologists&Prehistoric humans&0
+w/ 87/ b/ 87/ 174/ 174: Archaeologists have concluded that humans lived in Laputa 20,000 years ago. *target* hunted for deer on the river banks.&Archaeologists&Prehistoric humans&1
+w/ 88/ a/ 88/ 175/ 175: The scientists are studying three species of fish that have recently been found living in the Indian Ocean. *target* began two years ago.&The scientists&The fish&0
+w/ 88/ b/ 88/ 176/ 176: The scientists are studying three species of fish that have recently been found living in the Indian Ocean. *target* appeared two years ago.&The scientists&The fish&1
+w/ 89/ a/ 89/ 177/ 177: The journalists interviewed the stars of the new movie. *target* were very persistent, so the interview lasted for a long time.&The journalists&The stars&0
+w/ 89/ b/ 89/ 178/ 178: The journalists interviewed the stars of the new movie. *target* were very cooperative, so the interview lasted for a long time.&The journalists&The stars&1
+w/ 90/ a/ 90/ 179/ 179: The police arrested all of the gang members. *target* were trying to stop the drug trade in the neighborhood.&The police&The gang members&0
+w/ 90/ b/ 90/ 180/ 180: The police arrested all of the gang members. *target* were trying to run the drug trade in the neighborhood.&The police&The gang members&1
+w/ 91/ a/ 91/ 181/ 181: I put the cake away in the refrigerator. *target* has a lot of butter in it.&The cake&The refrigerator&0
+w/ 91/ b/ 91/ 182/ 182: I put the cake away in the refrigerator. *target* has a lot of leftovers in it.&The cake&The refrigerator&1
+w/ 92/ a/ 92/ 183/ 183: Sam broke both his ankles and he's walking with crutches. But a month or so from now *target* should be better.&the ankles&the crutches&0
+w/ 92/ b/ 92/ 184/ 184: Sam broke both his ankles and he's walking with crutches. But a month or so from now *target* should be unnecessary.&the ankles&the crutches&1
+w/ 93/ a/ 93/ 185/ 185: When the sponsors of the bill got to the town hall, they were surprised to find that the room was full of opponents. *target* were very much in the minority.&The sponsors&The opponents&0
+w/ 93/ b/ 93/ 186/ 186: When the sponsors of the bill got to the town hall, they were surprised to find that the room was full of opponents. *target* were very much in the majority.&The sponsors&The opponents&1
+w/ 94/ a/ 94/ 187/ 187: Everyone really loved the oatmeal cookies; only a few people liked the chocolate chip cookies. Next time, we should make more of *target*.&the oatmeal cookies&the chocolate chip cookies&0
+w/ 94/ b/ 94/ 188/ 188: Everyone really loved the oatmeal cookies; only a few people liked the chocolate chip cookies. Next time, we should make fewer of *target*.&the oatmeal cookies&the chocolate chip cookies&1
+w/ 95/ a/ 95/ 189/ 189: We had hoped to place copies of our newsletter on all the chairs in the auditorium, but there were simply not enough *target*.&copies of the newsletter&chairs&0
+w/ 95/ b/ 95/ 190/ 190: We had hoped to place copies of our newsletter on all the chairs in the auditorium, but there were simply too many *target*.&copies of the newsletter&chairs&1
+w/ 96/ a/ 96/ 191/ 191: I stuck a pin through a carrot. When I pulled the pin out, *target* left a hole.&the pin&the carrot&0
+w/ 96/ b/ 96/ 192/ 192: I stuck a pin through a carrot. When I pulled the pin out, *target* had a hole.&the pin&the carrot&1
+w/ 97/ a/ 97/ 193/ 193: I couldn't find a spoon, so I tried using a pen to stir my coffee. But that turned out to be a bad idea, because *target* got full of coffee.&the pen&the coffee&0
+w/ 97/ b/ 97/ 194/ 194: I couldn't find a spoon, so I tried using a pen to stir my coffee. But that turned out to be a bad idea, because *target* got full of ink.&the pen&the coffee&1
+w/ 98/ a/ 98/ 195/ 195: Steve follows Fred's example in everything. *target* admires him hugely.&Steve&Fred&0
+w/ 98/ b/ 98/ 196/ 196: Steve follows Fred's example in everything. *target* influences him hugely.&Steve&Fred&1
+w/ 99/ a/ 99/ 197/ 197: The table won't fit through the doorway because *target* is too wide.&the table&the doorway&0
+w/ 99/ b/ 99/ 198/ 198: The table won't fit through the doorway because *target* is too narrow.&the table&the doorway&1
+w/100/ a/100/ 199/ 199: Grace was happy to trade me her sweater for my jacket. She thinks *target* looks dowdy on her.&the sweater&the jacket&0
+w/100/ b/100/ 200/ 200: Grace was happy to trade me her sweater for my jacket. She thinks *target* looks great on her.&the sweater&the jacket&1
+w/101/ a/101/ 201/ 201: John hired Bill to take care of *target*.&John&Bill&0
+w/101/ b/101/ 202/ 202: John hired himself out to Bill to take care of *target*.&John&Bill&1
+w/102/ a/102/ 203/ 203: John promised Bill to leave, so an hour later *target* left.&John&Bill&0
+w/102/ b/102/ 204/ 204: John ordered Bill to leave, so an hour later *target* left.&John&Bill&1
+w/103/ a/103/ 205/ 205: Sam Goodman's biography of the Spartan general Xenophanes conveys a vivid sense of the difficulties *target* faced in his research.&Goodman&Xenophanes&0
+w/103/ b/103/ 206/ 206: Sam Goodman's biography of the Spartan general Xenophanes conveys a vivid sense of the difficulties *target* faced in his childhood.&Goodman&Xenophanes&1
+w/104/ a/104/ 207/ 207: Emma's mother had left Emma long ago, and *target* place had been taken by an excellent woman as governess.&Emma's mother's&Emma's&0
+w/104/ b/104/ 208/ 208: Emma's mother had left Emma long ago, and *target* education had been managed by an excellent woman as governess.&Emma's mother's&Emma's&1
+w/105/ a/105/ 209/ 209: Jane knocked on Susan's door but *target* did not get an answer.&Jane&Susan&0
+w/105/ b/105/ 210/ 210: Jane knocked on Susan's door but *target* did not answer.&Jane&Susan&1
+w/106/ a/106/ 211/ 211: Joe paid the detective after *target* received the final report on the case.&Joe&the detective&0
+w/106/ b/106/ 212/ 212: Joe paid the detective after *target* delivered the final report on the case.&Joe&the detective&1
+w/107/ a/107/ 213/ 213: Beth didn't get angry with Sally, who had cut her off, because *target* stopped and counted to ten.&Beth&Sally&0
+w/107/ b/107/ 214/ 214: Beth didn't get angry with Sally, who had cut her off, because *target* stopped and apologized.&Beth&Sally&1
+w/108/ a/108/ 215/ 215: Jim signaled the barman and gestured toward *target* empty glass.&Jim's&the barman's&0
+w/108/ b/108/ 216/ 216: Jim signaled the barman and gestured toward *target* bathroom key.&Jim's&the barman's&1
+w/109/ a/109/ 217/ 217: Dan took the rear seat while Bill claimed the front because *target* "Dibs!" was slow.&Dan's&Bill's&0
+w/109/ b/109/ 218/ 218: Dan took the rear seat while Bill claimed the front because *target* "Dibs!" was quicker.&Dan's&Bill's&1
+w/110/ a/110/ 219/ 219: Tom said "Check" to Ralph as he moved *target* bishop.&Tom's&Ralph's&0
+w/110/ b/110/ 220/ 220: Tom said "Check" to Ralph as he took *target* bishop.&Tom's&Ralph's&1
+w/111/ a/111/ 221/ 221: As Andrea in the crop duster passed over Susan, *target* could see the landing strip.&Andrea&Susan&0
+w/111/ b/111/ 222/ 222: As Andrea in the crop duster passed over Susan, *target* could see the landing gear.&Andrea&Susan&1
+w/112/ a/112/ 223/ 223: Tom gave Ralph a lift to school so *target* wouldn't have to drive alone.&Tom&Ralph&0
+w/112/ b/112/ 224/ 224: Tom gave Ralph a lift to school so *target* wouldn't have to walk.&Tom&Ralph&1
+w/113/ a/113/ 225/ 225: Bill passed the half-empty plate to John because *target* was full.&Bill&John&0
+w/113/ b/113/ 226/ 226: Bill passed the half-empty plate to John because *target* was hungry.&Bill&John&1
+w/114/ a/114/ 227/ 227: Bill passed the Game Boy to John because *target* turn was over.&Bill's&John's&0
+w/114/ b/114/ 228/ 228: Bill passed the Game Boy to John because *target* turn was next.&Bill's&John's&1
+w/115/ a/115/ 229/ 229: The man lifted the boy onto *target* shoulders.&the man's&the boy's&0
+w/115/ b/115/ 230/ 230: The man lifted the boy onto *target* bunk bed.&the man's&the boy's&1
+w/116/ a/116/ 231/ 231: Stretching *target* back, the woman smiled at the girl.&the woman's&the girl's&0
+w/116/ b/116/ 232/ 232: Patting *target* back, the woman smiled at the girl.&the woman's&the girl's&1
+w/117/ a/117/ 233/ 233: Billy cried because Toby wouldn't accept *target* toy.&Billy's&Toby's&0
+w/117/ b/117/ 234/ 234: Billy cried because Toby wouldn't share *target* toy.&Billy's&Toby's&1
+w/118/ a/118/ 235/ 235: Lily spoke to Donna, breaking *target* silence.&Lily's&Donna's&0
+w/118/ b/118/ 236/ 236: Lily spoke to Donna, breaking *target* concentration.&Lily's&Donna's&1
+w/119/ a/119/ 237/ 237: When Tommy dropped his ice cream, Timmy giggled, so father gave *target* a sympathetic look.&Tommy&Timmy&0
+w/119/ b/119/ 238/ 238: When Tommy dropped his ice cream, Timmy giggled, so father gave *target* a stern look.&Tommy&Timmy&1
+w/120/ a/120/ 239/ 239: As Ollie carried Tommy up the long winding steps, *target* legs ached.&Ollie's&Tommy's&0
+w/120/ b/120/ 240/ 240: As Ollie carried Tommy up the long winding steps, *target* legs dangled.&Ollie's&Tommy's&1
+w/121/ a/121/ 241/ 241: The father carried the sleeping boy in *target* arms.&the father's&the boy's&0
+w/121/ b/121/ 242/ 242: The father carried the sleeping boy in *target* bassinet.&the father's&the boy's&1
+w/122/ a/122/ 243/ 243: The woman held the girl against *target* chest.&the woman's&the girl's&0
+w/122/ b/122/ 244/ 244: The woman held the girl against *target* will.&the woman's&the girl's&1
+w/123/ a/123/ 245/ 245: Dr. Adams informed Kate that *target* had retired and presented several options for future treatment.&Dr. Adams&Kate&0
+w/123/ b/123/ 246/ 246: Dr. Adams informed Kate that *target* had cancer and presented several options for future treatment.&Dr. Adams&Kate&1
+w/124/ a/124/ 247/ 247: Dan had to stop Bill from toying with the injured bird. *target* is very compassionate.&Dan&Bill&0
+w/124/ b/124/ 248/ 248: Dan had to stop Bill from toying with the injured bird. *target* is very cruel.&Dan&Bill&1
+w/125/ a/125/ 249/ 249: George got free tickets to the play, but he gave them to Eric, even though *target* was particularly eager to see it.&George&Eric&0
+w/125/ b/125/ 250/ 250: George got free tickets to the play, but he gave them to Eric, because *target* was particularly eager to see it.&George&Eric&1
+w/126/ a/126/ 251/ 251: Jane gave Joan candy because *target* wasn't hungry.&Jane&Joan&0
+w/126/ b/126/ 252/ 252: Jane gave Joan candy because *target* was hungry.&Jane&Joan&1
+w/127/ a/127/ 253/ 253: I tried to paint a picture of an orchard, with lemons in the lemon trees, but *target* came out looking more like light bulbs.&the lemons&the lemon trees&0
+w/127/ b/127/ 254/ 254: I tried to paint a picture of an orchard, with lemons in the lemon trees, but *target* came out looking more like telephone poles.&the lemons&the lemon trees&1
+w/128/ a/128/ 255/ 255: James asked Robert for a favor but *target* was refused.&James&Robert&0
+w/128/ b/128/ 256/ 256: James asked Robert for a favor but *target* refused.&James&Robert&1
+w/129/ a/129/ 257/ 257: Kirilov ceded the presidency to Shatov because *target* was less popular.&Kirilov&Shatov&0
+w/129/ b/129/ 258/ 258: Kirilov ceded the presidency to Shatov because *target* was more popular.&Kirilov&Shatov&1
+w/130/ a/130/ 259/ 259: Emma did not pass the ball to Janie although *target* saw that she was open.&Emma&Janie&0
+w/130/ b/130/ 260/ 260: Emma did not pass the ball to Janie although *target* was open.&Emma&Janie&1
+w/131/ a/131/ 261/ 261: Madonna fired her trainer because *target* couldn't stand her boyfriend.&Madonna&the trainer&0
+w/131/ b/131/ 262/ 262: Madonna fired her trainer because *target* slept with her boyfriend.&Madonna&the trainer&1
+w/132/ a/132/ 263/ 263: Madonna fired her trainer because she slept with *target* boyfriend.&Madonna's&the trainer's&0
+w/132/ b/132/ 264/ 264: Madonna fired her trainer because she couldn't stand *target* boyfriend.&Madonna's&the trainer's&1
+w/133/ a/133/ 265/ 265: Carol believed that Rebecca suspected that *target* had stolen the watch.&Carol&Rebecca&0
+w/133/ b/133/ 266/ 266: Carol believed that Rebecca regretted that *target* had stolen the watch.&Carol&Rebecca&1
